@@ -1,0 +1,1726 @@
+re_20_arm_ahd_01.ogg : Armstrong ahead
+re_20_arm_ahd_02.ogg : Armstrong
+re_20_arm_ahd_03.ogg : moccasin
+re_20_arm_ahd_04.ogg : Could not recognize audio, skipping.
+re_20_arm_bhd_01.ogg : Armstrong behind
+re_20_arm_bhd_02.ogg : Armstrong is behind you
+re_20_arm_bhd_03.ogg : nakas behind
+re_20_arm_bhd_04.ogg : Marcus he's behind you
+re_20_arm_hgap_01.ogg : Armstrong just ahead push hard
+re_20_chat_q_pos_arm_01.ogg : Armstrong
+re_20_chat_q_pos_arm_02.ogg : and Armstrong
+re_20_chat_q_pos_dar_01.ogg : Garibaldi
+re_20_chat_q_pos_dar_02.ogg : and arugula
+re_20_chat_q_pos_dru_01.ogg : Could not recognize audio, skipping.
+re_20_chat_q_pos_dru_02.ogg : and dragovich
+re_20_chat_q_pos_lun_01.ogg : lingard
+re_20_chat_q_pos_lun_02.ogg : Could not recognize audio, skipping.
+re_20_chat_q_pos_nis_01.ogg : Nissan
+re_20_chat_q_pos_nis_02.ogg : end Nissan
+re_20_chat_q_pos_piq_01.ogg : PK
+re_20_chat_q_pos_piq_02.ogg : mpk
+re_20_chat_q_pos_sam_01.ogg : Senoia
+re_20_chat_q_pos_sam_02.ogg : handsome oil
+re_20_chat_q_pos_sat_01.ogg : Could not recognize audio, skipping.
+re_20_chat_q_pos_sat_02.ogg : SoundCloud
+re_20_chat_q_pos_shw_01.ogg : Schwartzman
+re_20_chat_q_pos_shw_02.ogg : and schwarzman
+re_20_chat_q_pos_tic_01.ogg : take some
+re_20_chat_q_pos_tic_02.ogg : Penticton
+re_20_chat_q_pos_tsu_01.ogg : sonoda
+re_20_chat_q_pos_tsu_02.ogg : Ensenada
+re_20_concat_pen_10_01.ogg : 10 seconds will be added to that time at the end of the rice
+re_20_concat_pen_15_01.ogg : 15 seconds will be added to that time at the end of the race
+re_20_concat_pen_20_01.ogg : 20 seconds will be at the end of the race
+re_20_concat_pen_25_01.ogg : 25 seconds will be added to that time at the end of the race
+re_20_concat_pen_30_01.ogg : 30 seconds will be added to that time at the end of the rice
+re_20_concat_pen_3_01.ogg : 3 seconds will be added to that time at the end of the race
+re_20_concat_pen_5_01.ogg : 5 seconds will be added to that time at the end of the rice
+re_20_dar_ahd_01.ogg : garou Balor head
+re_20_dar_ahd_02.ogg : Taraval hours ahead of me
+re_20_dar_ahd_03.ogg : Gahanna head
+re_20_dar_ahd_04.ogg : shahan is ahead of you
+re_20_dar_bhd_01.ogg : kerravala behind
+re_20_dar_bhd_02.ogg : behind you
+re_20_dar_bhd_03.ogg : kion behind
+re_20_dar_bhd_04.ogg : Jay and is behind you
+re_20_dar_hgap_01.ogg : travala just ahead push hard
+re_20_dc_careerintro_01.ogg : okay it's Jeff here and it looks like we're just about ready to get out on track I'll be working with you as your race engineer and I'll keep you up-to-date on useful information to help you get the most out of each session
+re_20_dc_careerintro_02.ogg : morning this is Jeff I'm delighted to be able to work with you you'll Race engineer I'll be feeding you timing Daytona weather information and more from here on the Pitbull and I hope we can have a good season together because just about ready if you want to head out onto the 2nd
+re_20_dru_ahd_01.ogg : Could not recognize audio, skipping.
+re_20_dru_ahd_02.ogg : drug Adventures ahead of you
+re_20_dru_ahd_03.ogg : Felipe
+re_20_dru_ahd_04.ogg : Felipe is ahead of you
+re_20_dru_bhd_01.ogg : Djokovic behind
+re_20_dru_bhd_02.ogg : she's behind you
+re_20_dru_bhd_03.ogg : Felipe is behind
+re_20_dru_bhd_04.ogg : Felipe is behind you
+re_20_dru_hgap_01.ogg : dragovich just ahead push
+re_20_hr2lr_15min_01.ogg : forecast suggests the rain is going to be lightening up over the next 10 to 15 minutes or so you should start finding more grip as we clear this tiny mortar
+re_20_hr2lr_15min_02.ogg : rain looks like it's going to be getting much lighter over the next 10 to 15 minutes that should be more grab but don't expect the drawing track
+re_20_hr2lr_5min_01.ogg : rhinos getting like to know but it's going to take awhile for the track to dry out
+re_20_hr2lr_5min_02.ogg : He reigns easing alphabets but the truck is still going to be wet for a while
+re_20_lr2hr_10min_01.ogg : conditions are going to keep deteriorating for 10 minutes at least
+re_20_lr2hr_10min_02.ogg : at least another 10 minutes until this rain evens out Styler tab
+re_20_lr2hr_15min_01.ogg : this rain is going to keep getting heavier for the next 15 minutes at least
+re_20_lr2hr_15min_02.ogg : the forecast suggests this rain is going to keep getting stronger for at least the next 15 minutes
+re_20_lr2hr_5min_01.ogg : the rain's getting worse be very careful
+re_20_lr2hr_5min_02.ogg : these conditions are only getting worse watch out for standing water
+re_20_lun_ahd_01.ogg : lingard ahead
+re_20_lun_ahd_02.ogg : God is ahead of you
+re_20_lun_ahd_03.ogg : Christianity
+re_20_lun_ahd_04.ogg : Christian is ahead of you
+re_20_lun_bhd_01.ogg : then God behind
+re_20_lun_bhd_02.ogg : then God is behind you
+re_20_lun_bhd_03.ogg : Christian behind
+re_20_lun_bhd_04.ogg : Christian is behind you
+re_20_lun_hgap_01.ogg : then God's just a head pusher
+re_20_nis_ahd_01.ogg : nissani ahead
+re_20_nis_ahd_02.ogg : Nissan he's ahead of you
+re_20_nis_ahd_03.ogg : Roy head
+re_20_nis_ahd_04.ogg : Roy's ahead of you
+re_20_nis_bhd_01.ogg : nissani behind
+re_20_nis_bhd_02.ogg : Nissan he's behind you
+re_20_nis_bhd_03.ogg : Roy behind
+re_20_nis_bhd_04.ogg : Roy's behind you
+re_20_nis_hgap_01.ogg : nissani just a head coach Sean
+re_20_piq_ahd_01.ogg : PK head
+re_20_piq_ahd_02.ogg : PK's ahead of you
+re_20_piq_ahd_03.ogg : Pedro ahead
+re_20_piq_ahd_04.ogg : Pedro is ahead of you
+re_20_piq_bhd_01.ogg : PK behind
+re_20_piq_bhd_02.ogg : Pekingese behind you
+re_20_piq_bhd_03.ogg : Hydro behind
+re_20_piq_bhd_04.ogg : Pedro is behind you
+re_20_piq_hgap_01.ogg : PK's just ahead pushing on
+re_20_pitexit_pen_01.ogg : all right we've taken care of the penalty let's try make some of that time back
+re_20_pitexit_pen_02.ogg : let's get back up to speed we've Sceptile penalty so just focus is best you can
+re_20_sam_ahd_01.ogg : samyra had
+re_20_sam_ahd_02.ogg : similares ahead of you
+re_20_sam_ahd_03.ogg : kehlani ahead
+re_20_sam_ahd_04.ogg : gunny is ahead of you
+re_20_sam_bhd_01.ogg : Somaya behind
+re_20_sam_bhd_02.ogg : similares behind you
+re_20_sam_bhd_03.ogg : kidani behind
+re_20_sam_bhd_04.ogg : he's behind you
+re_20_sam_hgap_01.ogg : semis just a head pusher
+re_20_sat_ahd_01.ogg : stop ahead
+re_20_sat_ahd_02.ogg : stop
+re_20_sat_ahd_03.ogg : Marino ahead
+re_20_sat_ahd_04.ogg : Marino is ahead of you
+re_20_sat_bhd_01.ogg : Sanatoga Hines
+re_20_sat_bhd_02.ogg : salus always behind you
+re_20_sat_bhd_03.ogg : Marino behind
+re_20_sat_bhd_04.ogg : Marina was behind you
+re_20_sat_hgap_01.ogg : Southold just ahead push on
+re_20_shw_ahd_01.ogg : Schwartzman the head
+re_20_shw_ahd_02.ogg : Schwartzman
+re_20_shw_ahd_03.ogg : Could not recognize audio, skipping.
+re_20_shw_ahd_04.ogg : Could not recognize audio, skipping.
+re_20_shw_bhd_01.ogg : Schwartzman behind
+re_20_shw_bhd_02.ogg : Schwartzman is behind you
+re_20_shw_bhd_03.ogg : Robert behind
+re_20_shw_bhd_04.ogg : robots is behind you
+re_20_shw_hgap_01.ogg : Schwartzman just ahead push hard
+re_20_terminalcrash_01.ogg : that was a heck of an impact let me know you're okay
+re_20_terminalcrash_02.ogg : are you all right sit tight the Marshals are on their way
+re_20_terminalcrash_03.ogg : are you okay that was a nasty head turn the engine off and wait for the Marshalls
+re_20_tic_ahd_01.ogg : take them ahead
+re_20_tic_ahd_02.ogg : ticktum is ahead of you
+re_20_tic_ahd_03.ogg : Daniel ahead
+re_20_tic_ahd_04.ogg : Daniel is ahead of me
+re_20_tic_bhd_01.ogg : take them behind
+re_20_tic_bhd_02.ogg : ticktum is behind you
+re_20_tic_bhd_03.ogg : can you behind
+re_20_tic_bhd_04.ogg : Could not recognize audio, skipping.
+re_20_tic_hgap_01.ogg : take them just a head pusher
+re_20_tsu_ahd_01.ogg : Cenote overhead
+re_20_tsu_ahd_02.ogg : sinodo is ahead of you
+re_20_tsu_ahd_03.ogg : Yu-Gi-Oh
+re_20_tsu_ahd_04.ogg : Yuki is ahead of you
+re_20_tsu_bhd_01.ogg : sonoda behind
+re_20_tsu_bhd_02.ogg : behind you
+re_20_tsu_bhd_03.ogg : Yuki behind
+re_20_tsu_bhd_04.ogg : Yuki is behind you
+re_20_tsu_hgap_01.ogg : cenotes just ahead push on
+re_20_vc_unserved_pen_01.ogg : we haven't answered stop-go penalty
+re_20_vc_unserved_pen_02.ogg : we have an outstanding stop-go penalty
+re_20_vc_unserved_timepen_01.ogg : telling penalty we expect to maintain first place
+re_20_vc_unserved_timepen_02.ogg : we expect to be in second place
+re_20_vc_unserved_timepen_03.ogg : after all telling penalty we expect to be in third place
+re_20_vc_unserved_timepen_04.ogg : after all telling penalty we expect to be in fourth place
+re_20_vc_unserved_timepen_05.ogg : after all telling penalty we expect to be in 5th place
+re_20_vc_unserved_timepen_06.ogg : time penalty we expect to be in 6th Place
+re_20_vc_unserved_timepen_07.ogg : telling penalty we expect to be in 7th place
+re_20_vc_unserved_timepen_08.ogg : we expect to be in 8th Place
+re_20_vc_unserved_timepen_09.ogg : after all telling penalty we expect to be in 9th Place
+re_20_vc_unserved_timepen_10.ogg : we expect to be in 10th Place
+re_20_vc_unserved_timepen_11.ogg : we expect to be in 11th place
+re_20_vc_unserved_timepen_12.ogg : after all time penalty we expect to be in 12th Place
+re_20_vc_unserved_timepen_13.ogg : stop the rock telling penalty we expect to be in 13th Place
+re_20_vc_unserved_timepen_14.ogg : penalty we expect to be in 14th Place
+re_20_vc_unserved_timepen_15.ogg : no throttling penalty we expect to be in 15th Place
+re_20_vc_unserved_timepen_16.ogg : penalty we expect to be in 16th Place
+re_20_vc_unserved_timepen_17.ogg : after all telling penalty we expect to be in 17th Place
+re_20_vc_unserved_timepen_18.ogg : I'll tell him penalty we expect to be in 18th Place
+re_20_vc_unserved_timepen_19.ogg : after all telling penalty we expect to be in 19th Place
+re_20_vc_unserved_timepen_20.ogg : after I'll telling penalty we expect to be in 20th Place
+re_20_vc_unserved_timepen_21.ogg : after all telling penalty we expect to be in 21st place
+re_20_vc_unserved_timepen_22.ogg : penalty we expect to be in 22nd Place
+re_acknow_01.ogg : Could not recognize audio, skipping.
+re_acknow_02.ogg : Could not recognize audio, skipping.
+re_acknow_03.ogg : confirm
+re_acknow_04.ogg : understood
+re_acknow_05.ogg : okay
+re_acknow_06.ogg : Could not recognize audio, skipping.
+re_acknow_07.ogg : Could not recognize audio, skipping.
+re_acknow_08.ogg : Could not recognize audio, skipping.
+re_acknow_09.ogg : Could not recognize audio, skipping.
+re_acknow_10.ogg : Could not recognize audio, skipping.
+re_aclm_drs_01.ogg : trx7 is coming up get ready to open it distances on your MSD
+re_aclm_drs_02.ogg : approaching the DRS Zone
+re_aclm_intro_01.ogg : annual goal is to get through as many corn agates as quickly and precisely as possible remember to activate your DRS in the DRS own as well
+re_aclm_intro_02.ogg : Ronnie Trenton I was many Corner Gates as you can this month do you get through Each corner of the high the school you need to deploy DRS in the DRS own as well
+re_aclm_intro_03.ogg : can you list to get through as many Kona Gates as quickly and precisely as possible best of luck out
+re_aclm_intro_04.ogg : as many kuna Gates as you can to Foster you get through Each corner the height of the school
+re_aclm_lap_01.ogg : okay remember to break nice and 94 Each corner focus on hitting the Apex first build up speed later
+re_aclm_lap_02.ogg : alright let's make sure what hitting those Apex is once you're comfortable with the position through the corner then start building up the space
+re_aclm_lap_03.ogg : did wacky handle on the lap let's try and perfect each turn remember that chaining good coins together will give you a consistency bonus
+re_aclm_lap_04.ogg : that's looking good now it's trying for purple you'll get a bonus for consistency if you can chain good Corners together
+re_aclm_lap_05.ogg : that's fantastic you always have a really good understanding of this circle
+re_aclm_lap_06.ogg : right stuff you pretty much now they suck it this is a really strong Foundation to build from over the weekend
+re_ahd_gain_01.ogg : painting by 1/10
+re_ahd_gain_02.ogg : by gaining Byron to 10th parallel
+re_ahd_gain_03.ogg : you're gaining by 3/10 alap Goodwill
+re_ahd_gain_04.ogg : closing by 4/10
+re_ahd_gain_05.ogg : gaining by around half a second
+re_ahd_gain_06.ogg : dining Byron 610 salon
+re_ahd_gain_07.ogg : closing in by 7/10
+re_ahd_gain_08.ogg : painting by 8/10 8/10
+re_ahd_gain_09.ogg : bye-bye 910 salt lamp keep it up
+re_ahd_gain_10.ogg : you're gaining by a full second per lap good job
+re_ahd_gain_11.ogg : 1.2 seconds advantage
+re_ahd_gain_12.ogg : closing in by around 1.4 s
+re_ahd_gain_13.ogg : you're gaining by 1.6 seconds
+re_ahd_gain_14.ogg : will taking 1.8 s out of the meatloaf
+re_ahd_gain_15.ogg : dining by 2 seconds
+re_ahd_gain_16.ogg : taking two-and-a-half s down to the meet you
+re_ahd_gain_17.ogg : you're closing in by 3 seconds
+re_ahd_gain_18.ogg : weight gaining by around 4 seconds per lap
+re_ahd_gain_19.ogg : any by 5 Seconds elapsed great great work
+re_ahd_gain_20.ogg : you're getting by over 5 Seconds elapsed keep it up
+re_ahd_loss_01.ogg : falling back by 1/10
+re_ahd_loss_02.ogg : you're dropping back by around 2:10 speechless
+re_ahd_loss_03.ogg : leaving around 3:10 salon
+re_ahd_loss_04.ogg : dropping back by around 4:10 salon
+re_ahd_loss_05.ogg : pulling away from us at a right of half a second
+re_ahd_loss_06.ogg : building a lead of 610 Spurlock
+re_ahd_loss_07.ogg : you're losing around 7:10 salon
+re_ahd_loss_08.ogg : Lowdown 810 salon
+re_ahd_loss_09.ogg : Weslo 0.9 tensilon
+re_ahd_loss_10.ogg : play dropping back by a second per lap
+re_ahd_loss_11.ogg : falling back by around 1.2 seconds
+re_ahd_loss_12.ogg : dropping back by around 1.4 s
+re_ahd_loss_13.ogg : losing around 1.6 s
+re_ahd_loss_14.ogg : pulling away from us at a rate of 1.8 seconds per lap
+re_ahd_loss_15.ogg : extending their advantage by 2 seconds
+re_ahd_loss_16.ogg : 2 1/2 seconds slow
+re_ahd_loss_17.ogg : you're losing 3 seconds alarm
+re_ahd_loss_18.ogg : closing for S allowed to try to pick up the pace
+re_ahd_loss_19.ogg : 5 Seconds slower we need to do something here
+re_ahd_loss_20.ogg : dropping more than 5 Seconds elapsed we have to find more space
+re_ait_ahd_01.ogg : aitkenhead
+re_ait_ahd_02.ogg : hkn is ahead of
+re_ait_ahd_03.ogg : Could not recognize audio, skipping.
+re_ait_ahd_04.ogg : Jack is ahead of
+re_ait_bhd_01.ogg : Aitkin behind
+re_ait_bhd_02.ogg : his behind
+re_ait_bhd_03.ogg : Jack behind
+re_ait_bhd_04.ogg : Jack is behind
+re_ait_hgap_01.ogg : taken just a head coach for the position
+re_alb_ahd_01.ogg : Albany
+re_alb_ahd_02.ogg : Albanese ahead of
+re_alb_ahd_03.ogg : Alexander ahead
+re_alb_ahd_04.ogg : Alexander is ahead of you
+re_alb_bhd_01.ogg : Alvin behind
+re_alb_bhd_02.ogg : Albanese
+re_alb_bhd_03.ogg : Alexander behind
+re_alb_bhd_04.ogg : Alexander
+re_alb_hgap_01.ogg : K just a head coach for the position
+re_ale_ahd_01.ogg : Lacs
+re_ale_ahd_02.ogg : Lacs
+re_ale_ahd_03.ogg : Juliana
+re_ale_ahd_04.ogg : Giuliano is ahead of
+re_ale_bhd_01.ogg : highlights
+re_ale_bhd_02.ogg : Lacs behind you
+re_ale_bhd_03.ogg : Juliana behind
+re_ale_bhd_04.ogg : studiano's behind
+re_ale_hgap_01.ogg : Lacey just a head coach for the position
+re_antistall_01.ogg : Auntie stole anti-stall let's repeat the step procedure to get going again
+re_antistall_02.ogg : Could not recognize audio, skipping.
+re_bhd_gain_01.ogg : shaved 1/10
+re_bhd_gain_02.ogg : 210 salon
+re_bhd_gain_03.ogg : losing 310 salon
+re_bhd_gain_04.ogg : you're losing 410 salon
+re_bhd_gain_05.ogg : go down around half a second
+re_bhd_gain_06.ogg : catching it around 610 salon
+re_bhd_gain_07.ogg : Gap is closing by 7:10 salon
+re_bhd_gain_08.ogg : gaining by 810 salon
+re_bhd_gain_09.ogg : 910 salon
+re_bhd_gain_10.ogg : losing a second alarm
+re_bhd_gain_11.ogg : what company 1.2 seconds slower
+re_bhd_gain_12.ogg : I gaining on You by 1.4 seconds each lap
+re_bhd_gain_13.ogg : you're losing around 1.6 s
+re_bhd_gain_14.ogg : around 1.8 s slow
+re_bhd_gain_15.ogg : wedding quotes iterative 2 seconds
+re_bhd_gain_16.ogg : please closing by 2 1/2 seconds
+re_bhd_gain_17.ogg : leaving around 3 seconds per lap
+re_bhd_gain_18.ogg : 4 seconds elapsed in the car behind
+re_bhd_gain_19.ogg : dropping about 5 Seconds elapsed
+re_bhd_gain_20.ogg : losing about 5 Seconds elapsed spaces fallacies
+re_bhd_loss_01.ogg : pulling away around 110 salon
+re_bhd_loss_02.ogg : Could not recognize audio, skipping.
+re_bhd_loss_03.ogg : m310 salon
+re_bhd_loss_04.ogg : pulling away by about 4:10 Spurlock
+re_bhd_loss_05.ogg : I lost 5/10 to you on that last long
+re_bhd_loss_06.ogg : pulling away by 6/10
+re_bhd_loss_07.ogg : 7/10 fast
+re_bhd_loss_08.ogg : Kathy's growing by 8/10
+re_bhd_loss_09.ogg : increasing the Gap by 910 salon
+re_bhd_loss_10.ogg : you're pulling away the rights of a second.
+re_bhd_loss_11.ogg : you're pulling out the Gap around 1.2 seconds each lap
+re_bhd_loss_12.ogg : you're getting them by 1.4 seconds
+re_bhd_loss_13.ogg : taking around 1.6 s Othello
+re_bhd_loss_14.ogg : by 1.8 seconds
+re_bhd_loss_15.ogg : Behind These dropping back by 2 seconds alive
+re_bhd_loss_16.ogg : increasing the Gap by 2 1/2 seconds
+re_bhd_loss_17.ogg : is growing at a rate of 3 seconds per lap
+re_bhd_loss_18.ogg : getting away by about 4 seconds elapsed good work
+re_bhd_loss_19.ogg : 5 Seconds
+re_bhd_loss_20.ogg : increasing by more than five and a half seconds each lap great job
+re_blak_flag_01.ogg : okay Black Flag Black Flag where I put the race
+re_blak_flag_03.ogg : that's alright sofa Black Flag weeping black-flagged drive back into the pits
+re_blak_flag_04.ogg : race over the Stewart's of Black Flag.
+re_boc_ahd_01.ogg : Could not recognize audio, skipping.
+re_boc_ahd_02.ogg : alkaline cheese ahead of
+re_boc_ahd_03.ogg : Dorian ahead
+re_boc_ahd_04.ogg : Dorian is a dab
+re_boc_bhd_01.ogg : kolache behind
+re_boc_bhd_02.ogg : kolaches
+re_boc_bhd_03.ogg : coriander
+re_boc_bhd_04.ogg : Could not recognize audio, skipping.
+re_boc_hgap_01.ogg : coconut tree just ahead push for the position
+re_bos_ahd_01.ogg : show me how
+re_bos_ahd_02.ogg : show me the head of
+re_bos_ahd_03.ogg : Ralph a
+re_bos_ahd_04.ogg : Ralph is ahead of
+re_bos_bhd_01.ogg : Could not recognize audio, skipping.
+re_bos_bhd_02.ogg : show me behind
+re_bos_bhd_03.ogg : Ralph behind
+re_bos_bhd_04.ogg : Ralph is behind
+re_bos_hgap_01.ogg : I'm just a head coach for the position
+re_bot_ahd_01.ogg : Could not recognize audio, skipping.
+re_bot_ahd_02.ogg : Could not recognize audio, skipping.
+re_bot_ahd_03.ogg : Could not recognize audio, skipping.
+re_bot_ahd_04.ogg : Teresa Haddad
+re_bot_bhd_01.ogg : Could not recognize audio, skipping.
+re_bot_bhd_02.ogg : Could not recognize audio, skipping.
+re_bot_bhd_03.ogg : that's about to be behind
+re_bot_bhd_04.ogg : Could not recognize audio, skipping.
+re_b_flg_01.ogg : when not racing the car behind let them past when you can
+re_b_flg_02.ogg : blue flag conditions created Gap and let the car behind
+re_cal_ahd_01.ogg : Calderon ahead
+re_cal_ahd_02.ogg : cold
+re_cal_ahd_03.ogg : Tatiana
+re_cal_ahd_04.ogg : Tatiana is ahead of
+re_cal_bhd_01.ogg : Calderon behind
+re_cal_bhd_02.ogg : Calderon is behind
+re_cal_bhd_03.ogg : Tatiana Bhai
+re_cal_bhd_04.ogg : Tatiana was behind
+re_cal_hgap_01.ogg : calderone's just ahead push for the position
+re_careerintro_01.ogg : okay good have you onboard I'm Jeff and I'll be a race engineer welcome to the team and to Formula One I'm really looking forward to the season I'll system checks are right okay so we can get underway whenever you like
+re_careerintro_02.ogg : this is just speaking out penis known as you'll Race engineer is a lot of hard work ahead of us but the team believes in you I just know you're going to be great because Good2Go so had I want to track whatever you like
+re_cbh_gain_07.ogg : okay the car behind is catching you by 510 silap 510
+re_chat_q_pos_ait_01.ogg : Aitkin
+re_chat_q_pos_ait_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_alb_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_alb_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_ale_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_ale_02.ogg : and Elijah
+re_chat_q_pos_boc_01.ogg : kolache
+re_chat_q_pos_boc_02.ogg : Karachi
+re_chat_q_pos_bos_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_bos_02.ogg : Bouchon
+re_chat_q_pos_bot_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_bot_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_cal_01.ogg : call Tyrone
+re_chat_q_pos_cal_02.ogg : and colder
+re_chat_q_pos_cor_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_cor_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_del_01.ogg : teletron
+re_chat_q_pos_del_02.ogg : inteletravel
+re_chat_q_pos_dev_01.ogg : Avery's
+re_chat_q_pos_dev_02.ogg : and every
+re_chat_q_pos_fuk_01.ogg : Kazumi
+re_chat_q_pos_fuk_02.ogg : Azumi
+re_chat_q_pos_fuo_01.ogg : Fuoco
+re_chat_q_pos_fuo_02.ogg : and Fuoco
+re_chat_q_pos_gas_01.ogg : cancel
+re_chat_q_pos_gas_02.ogg : sandcastle
+re_chat_q_pos_gel_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_gel_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_ghi_01.ogg : Rialto
+re_chat_q_pos_ghi_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_gio_01.ogg : jovanotti
+re_chat_q_pos_gio_02.ogg : jovanotti
+re_chat_q_pos_gro_01.ogg : corrosion
+re_chat_q_pos_gro_02.ogg : I'm gross
+re_chat_q_pos_gun_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_gun_02.ogg : encanta
+re_chat_q_pos_ham_01.ogg : Hamilton
+re_chat_q_pos_ham_02.ogg : and Hamilton
+re_chat_q_pos_hub_01.ogg : too bad
+re_chat_q_pos_hub_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_ilo_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_ilo_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_kar_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_kar_02.ogg : and Cara
+re_chat_q_pos_kin_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_kin_02.ogg : and King
+re_chat_q_pos_kub_01.ogg : kibitzer
+re_chat_q_pos_kub_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_kvy_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_kvy_02.ogg : CVS
+re_chat_q_pos_lat_01.ogg : Latifah
+re_chat_q_pos_lat_02.ogg : latifay
+re_chat_q_pos_lec_01.ogg : LeClaire
+re_chat_q_pos_lec_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_lor_01.ogg : lorenda
+re_chat_q_pos_lor_02.ogg : angler and Ale
+re_chat_q_pos_mai_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_mai_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_mak_01.ogg : Makena
+re_chat_q_pos_mak_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_mar_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_mar_02.ogg : and Market
+re_chat_q_pos_mat_01.ogg : Matsushita
+re_chat_q_pos_mat_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_maz_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_maz_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_mgn_01.ogg : Magnuson
+re_chat_q_pos_mgn_02.ogg : Ann Magnuson
+re_chat_q_pos_nor_01.ogg : Norris
+re_chat_q_pos_nor_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_oco_01.ogg : welcome
+re_chat_q_pos_oco_02.ogg : Pandora
+re_chat_q_pos_per_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_per_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_rag_01.ogg : raghunathan
+re_chat_q_pos_rag_02.ogg : unison
+re_chat_q_pos_rai_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_rai_02.ogg : and raikkonen
+re_chat_q_pos_ric_01.ogg : Ricardo
+re_chat_q_pos_ric_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_rus_01.ogg : Russell
+re_chat_q_pos_rus_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_sch_01.ogg : Schumacher
+re_chat_q_pos_sch_02.ogg : and Schumacher
+re_chat_q_pos_set_01.ogg : set a camera
+re_chat_q_pos_set_02.ogg : pancetta camera
+re_chat_q_pos_snz_01.ogg : signs
+re_chat_q_pos_snz_02.ogg : and signs
+re_chat_q_pos_stl_01.ogg : strong
+re_chat_q_pos_stl_02.ogg : Armstrong
+re_chat_q_pos_vet_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_vet_02.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_vtp_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_vtp_02.ogg : ambushed
+re_chat_q_pos_zho_01.ogg : Could not recognize audio, skipping.
+re_chat_q_pos_zho_02.ogg : Could not recognize audio, skipping.
+re_coop_17.ogg : behind is running low on fuel trying to pull away without taking any risks
+re_cornercut_01.ogg : if you continue to cut Corners the stewards will give you a penalty
+re_cornercut_02.ogg : you need to slow down before hitting the corners we don't to get a penalty
+re_cornercut_03.ogg : okay this is Jeff I need you to start cutting the corners if you keep it up the stewards will award you a penalty
+re_cor_ahd_01.ogg : Carrera hair
+re_cor_ahd_02.ogg : Korea is ahead of
+re_cor_ahd_03.ogg : Could not recognize audio, skipping.
+re_cor_ahd_04.ogg : Juan Manuel is ahead of
+re_cor_bhd_01.ogg : Korea behind
+re_cor_bhd_02.ogg : Korea is behind
+re_cor_bhd_03.ogg : Juan Manuel behind
+re_cor_bhd_04.ogg : Juan Manuel is behind you
+re_cor_hgap_01.ogg : adjust the head push for the position
+re_del_ahd_01.ogg : Delhi Transit
+re_del_ahd_02.ogg : Caltrans is ahead of you
+re_del_ahd_03.ogg : Olivia Hack
+re_del_ahd_04.ogg : Louise ahead of
+re_del_bhd_01.ogg : teletransport
+re_del_bhd_02.ogg : electrons is behind
+re_del_bhd_03.ogg : Louis Vuitton
+re_del_bhd_04.ogg : Louise behind
+re_del_hgap_01.ogg : electrons just ahead push for the position
+re_dev_ahd_01.ogg : Frieza head
+re_dev_ahd_02.ogg : Avery's is ahead of
+re_dev_ahd_03.ogg : naked
+re_dev_ahd_04.ogg : Nick is ahead of you
+re_dev_bhd_01.ogg : Jeffrey's behind
+re_dev_bhd_02.ogg : Jeffrey's is behind
+re_dev_bhd_03.ogg : Nick behind
+re_dev_bhd_04.ogg : Nick is behind
+re_dev_hgap_01.ogg : Jeffrey's just ahead push for the position
+re_driverlist_racing_01.ogg : okay main competitors in this race
+re_driverlist_racing_02.ogg : the drive is what racing
+re_driverlist_racing_03.ogg : okay here's who we're really fighting today
+re_driverlist_racing_04.ogg : drawn this way
+re_driverupdate_issuegen_01.ogg : they have some kind of mechanical problem
+re_driverupdate_issuegen_02.ogg : they seem to have an issue
+re_drop_18th_02.ogg : you falling into p1811 p80
+re_drop_2nd_02.ogg : okay You Will Downing to P2 let's push on and try to regain fuss
+re_drs_wea_01.ogg : disable DRS DRS is disabled
+re_drs_wea_02.ogg : ERS has been disabled by the stewards DRS will be offline
+re_drs_wea_03.ogg : okay to Stewart's have now enabled erasers is now online
+re_drs_wea_04.ogg : CRS is being enabled DRS is now enabled
+re_dry_20_new_01.ogg : no threat of rain for the time being conditions looking good
+re_dry_20_new_02.ogg : radon is clear weather is looking good for now
+re_dry_20_new_03.ogg : Nations look stable at the moment no rain currently expected
+re_dry_20_new_04.ogg : no rain expected no rain expected for the time being
+re_dry_all_01.ogg : weather shouldn't play a factor today we're expecting it to remain drawing throughout
+re_dry_all_02.ogg : rainfall expected today we think it will stay dry
+re_dry_all_03.ogg : expecting any changes to the weather today dry throat
+re_dry_rain_01.ogg : expecting the rain to hit this anytime now
+re_dry_rain_02.ogg : watch the conditions we think is rain coming pretty soon
+re_dry_rain_03.ogg : rain is imminent rain is imminent be careful
+re_dry_rain_04.ogg : we don't think it's going to stay drawing for much longer the rain could come at any moment watch out
+re_dry_rain_05.ogg : rain is a few laps out yet but it is coming be careful
+re_dry_rain_06.ogg : right on suggest some weather is going to hit in around 5 minutes time so stay on your toes
+re_dry_rain_07.ogg : looks like rain is inbound and we're expecting it in around 5 minutes 1:55
+re_dry_rain_08.ogg : five minutes until rainfall expected 5 minutes until rain
+re_dry_rain_09.ogg : expecting rain in around 10 to 15 minutes
+re_dry_rain_10.ogg : rain is forecast in just over 10 minutes time rain in 10 minutes
+re_dry_rain_11.ogg : we think we may see some rain ETA is about 50 minutes
+re_dry_rain_12.ogg : expect to see some rain about 10 to 15 minutes from now
+re_dt_pen_03.ogg : we just seen the stewards give the car behind a drive-through penalty
+re_eastereggs_02.ogg : mp22 it only gets better from here so let's go get
+re_eastereggs_03.ogg : okay still in P22 it's not great but if you keep your concentration I know you've got the speed to improve on that
+re_eastereggs_09.ogg : okay here we go I know what you can do don't let me down
+re_engineertut_01.ogg : if you want to know specific information will make certain changes to the conjuring if it stopped you can tell me what you want over the radio press and hold the radio button to activate the system and you cannot have a speak the command or select it manually from the radio screen that will appear on the multi-function display while the Radioactive song Cucamonga
+re_engineertut_02.ogg : econ setting screen on your multi-function display will allow you to change various settings you drive open the display navigate up and down to the setting you won't
+re_engineertut_03.ogg : if you information on your current levels of time I wearing damage press the mft button to open the multi-function display and then again to cycle to the time
+re_engineertut_04.ogg : if you your current telling a break in the engine temperatures press the mft button to open the multi-function display and then press it again to cycle through till you reach the temperature information screen
+re_engineertut_05.ogg : if you current strategy and rice objectives press the mft button to open the multi-function display and then press it again to cycle through till you reach the strategy and objective screen
+re_engineertut_06.ogg : Crouton to tell him I'll ask if you want to change to a new strategy or if there are any particular color adjustments you would like night in the pit stop when I do so a prompt will appear on the mft showing how long you have to respond to answer hold the radio button to open the radio screen this will display your available responses speak the command or selected manually from the radio
+re_engineertut_10.ogg : you'll drag reduction system or DRS allows you to gain speed on certain straight we call these areas the DRS own you can use your TRS in these areas at well during practice and qualifying but in the race DRS is only available if you're within one second of the car in front the bar at the bottom of your mft will fill up as you approach the DRS own and once it starts flashing press the DRS button to activate
+re_ersmanagement_intro_01.ogg : this is the ERS management test hit the target time was managing your battery charge the more efficiently use energy throughout the lineup the Hollywood school use your overtake button to maximum power but remember that will drain and a.g. rapidly
+re_ersmanagement_intro_02.ogg : in this program we're looking at ERS management this is all about managing your battery efficiently throughout allowed to hit your target time the overtake button will drain the battery quickly but it will also give you maximum power
+re_ersmanagement_upd_01.ogg : fuel prices to slow make sure you use your overtake button from maximum power
+re_ersmanagement_upd_02.ogg : Matlock was too slow you need to find more speed make sure to properly euthanize Europa take Boston
+re_ersmanagement_upd_03.ogg : you're using too much energy they overtake button gives you maximum power but it also drains energy quickly use it sparingly
+re_ersmanagement_upd_04.ogg : you're using up too much energy over the lamp don't use your overtype button quite so much
+re_ersmanagement_upd_05.ogg : okay good Pace on that lap and energy management is looking a okay
+re_ersmanagement_upd_06.ogg : alright energy management is in the right Ballpark and paces good
+re_ersmanagement_upd_07.ogg : great job that's fantastic pace and you
+re_ersmanagement_upd_08.ogg : energy management is looking exceptional and your place is good to weld
+re_ficdriver_ahd_ati_01.ogg : Tiara hair
+re_ficdriver_ahd_bar_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_ahd_bel_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_ahd_cal_01.ogg : callabresi ahead
+re_ficdriver_ahd_cla_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_ahd_cop_01.ogg : call fins
+re_ficdriver_ahd_cor_01.ogg : Carrera hair
+re_ficdriver_ahd_for_01.ogg : Forest
+re_ficdriver_ahd_gil_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_ahd_izu_01.ogg : Izumi
+re_ficdriver_ahd_jon_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_ahd_kau_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_ahd_lau_01.ogg : Lawson
+re_ficdriver_ahd_let_01.ogg : turn overhead
+re_ficdriver_ahd_lev_01.ogg : divisive
+re_ficdriver_ahd_mei_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_ahd_mic_01.ogg : Makowski
+re_ficdriver_ahd_mor_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_ahd_mur_01.ogg : Maria has
+re_ficdriver_ahd_nai_01.ogg : nyeri
+re_ficdriver_ahd_nie_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_ahd_que_01.ogg : solder ahead
+re_ficdriver_ahd_rot_01.ogg : Raphael
+re_ficdriver_ahd_sar_01.ogg : sorry I had
+re_ficdriver_ahd_sch_01.ogg : Chick-fil-A
+re_ficdriver_ahd_tre_01.ogg : Tremblay
+re_ficdriver_ahd_vis_01.ogg : Visa
+re_ficdriver_ahd_wal_01.ogg : V Mueller
+re_ficdriver_bhd_ati_01.ogg : Tia Becca
+re_ficdriver_bhd_bar_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_bhd_bel_01.ogg : elusive behind
+re_ficdriver_bhd_cal_01.ogg : callabresi.
+re_ficdriver_bhd_cla_01.ogg : clock Bentley
+re_ficdriver_bhd_cop_01.ogg : coffins behind
+re_ficdriver_bhd_cor_01.ogg : Korea behind
+re_ficdriver_bhd_for_01.ogg : Forest behind
+re_ficdriver_bhd_gil_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_bhd_izu_01.ogg : Izumi behind
+re_ficdriver_bhd_jon_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_bhd_kau_01.ogg : Kaufman behind
+re_ficdriver_bhd_lau_01.ogg : blossom
+re_ficdriver_bhd_let_01.ogg : Letourneau behind
+re_ficdriver_bhd_lev_01.ogg : Levasseur behind
+re_ficdriver_bhd_mei_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_bhd_mic_01.ogg : Makowski
+re_ficdriver_bhd_mor_01.ogg : Moreno Valley
+re_ficdriver_bhd_mur_01.ogg : Marie behind
+re_ficdriver_bhd_nai_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_bhd_nie_01.ogg : needs behind
+re_ficdriver_bhd_que_01.ogg : tostada behind
+re_ficdriver_bhd_rot_01.ogg : rough behind
+re_ficdriver_bhd_sar_01.ogg : sorry behind
+re_ficdriver_bhd_sch_01.ogg : shifa behind
+re_ficdriver_bhd_tre_01.ogg : Could not recognize audio, skipping.
+re_ficdriver_bhd_vis_01.ogg : visible
+re_ficdriver_bhd_wal_01.ogg : Could not recognize audio, skipping.
+re_flv_cir_aus_01.ogg : his first race of the season is always quite difficult for us Trackside and for those back of the factory as well as it's the first time the country's run since winter testing the most consistent knowledge you can get in these sessions the happier we'll be
+re_flv_cir_aus_02.ogg : okay let's talk about this trunk Albert Park has a lot of tricky high-speed Corners example and also the left right through 11 and 12 where you need to be as daring as you can with the entry space
+re_flv_cir_aus_03.ogg : okay here's something to remember about this suck at the most important breaking microrna T15 to very tight left-hander you will understand if you take liberties with it so be careful
+re_flv_prep_01.ogg : can't Jeff hear radio check seems good before we get started I just want to tell you how much I'm looking forward to working with you your success is My Success so let's give it our old if you need anyting just let me know
+re_flv_prep_02.ogg : okay this is Jeff Jimmy radio checklist good system check looks good just want to say to pleasure to have you on the team and I hope you have a lot of success together tell me if you need anything otherwise get out back and show us what you've got
+re_fuellaps_00.ogg : less than a lot of fuel now the tank is empty
+re_fuellaps_01.ogg : is only one lap of fuel remaining
+re_fuellaps_02.ogg : we've only got two laps of fuel left
+re_fuellaps_02b.ogg : we have two types of fuel remaining
+re_fuellaps_03.ogg : three laps of fuel remaining
+re_fuellaps_04.ogg : that's four laps of fuel remaining
+re_fuellaps_05.ogg : that's five laps of fuel remaining
+re_fuellaps_05b.ogg : we have five laps of fuel remaining
+re_fuellaps_06.ogg : 6 laps if you remain
+re_fuellaps_07.ogg : seven laps of fuel remaining
+re_fuellaps_08.ogg : 8 laps of fuel remaining
+re_fuellaps_09.ogg : if you remain
+re_fuellaps_10.ogg : best 10-lap Sofia remain
+re_fuellaps_10b.ogg : we have 10 laps of fuel remaining
+re_fuellaps_11.ogg : 11 laps if you remain
+re_fuellaps_12.ogg : 12 laps if you remain
+re_fuellaps_13.ogg : is 13 laps of fuel remaining
+re_fuellaps_14.ogg : 14 laps if you remain
+re_fuellaps_15.ogg : 15 laps of fuel remaining
+re_fuellaps_16.ogg : 16 laps of fuel remaining
+re_fuellaps_17.ogg : there's 17 laps if you were mine
+re_fuellaps_18.ogg : sat maps of fuel remaining
+re_fuellaps_19.ogg : 19 laps of fuel remaining
+re_fuellaps_20.ogg : 20 laps of fuel remaining
+re_fuellaps_21.ogg : 21 laps of fuel relay
+re_fuellaps_22.ogg : 22 laps if you remain
+re_fuellaps_23.ogg : is 23 laps if you remain
+re_fuellaps_24.ogg : is 24 laps if you remain
+re_fuellaps_25.ogg : 20
+re_fuellaps_25b.ogg : we have 25 laps of fuel remaining
+re_fuellaps_26.ogg : 26
+re_fuellaps_27.ogg : does 27 laps if you remain
+re_fuellaps_28.ogg : best 28 laps of fuel remaining
+re_fuellaps_29.ogg : best 22 fuel relay
+re_fuellaps_30.ogg : best 30 laps if you remain
+re_fuellaps_31.ogg : that's 31 laps of fuel relay
+re_fuellaps_32.ogg : that's 32 laps if you remain
+re_fuellaps_33.ogg : says 33 laps of fuel remain
+re_fuellaps_34.ogg : Sofia Romania
+re_fuellaps_35.ogg : does 35 laps if you remain
+re_fuellaps_36.ogg : that's 36 laps if you remain
+re_fuellaps_37.ogg : that's 37 laps of fuel remaining
+re_fuellaps_38.ogg : best 38 Maps if you remain
+re_fuellaps_39.ogg : says 39 laps of fuel remaining
+re_fuellaps_40.ogg : that's full of fuel remaining
+re_fuellaps_41.ogg : says 41 laps of fuel remaining
+re_fuellaps_42.ogg : says 42 laps of fuel remaining
+re_fuellaps_43.ogg : play Spooky three laps of fuel remaining
+re_fuellaps_44.ogg : 644 laps if you remain
+re_fuellaps_45.ogg : that's 45 laps of fuel remaining
+re_fuellaps_46.ogg : 646 laps if you remain
+re_fuellaps_47.ogg : says 47 laps of fuel remaining
+re_fuellaps_48.ogg : that's 48 laps of fuel remaining
+re_fuellaps_49.ogg : that's 49 laps of fuel remaining
+re_fuellaps_50.ogg : best 50 laps of fuel remaining
+re_fuellaps_50plus.ogg : we've got more than 50 laps of fuel left
+re_fuelmanagement_intro_01.ogg : in this program we want you to focus on fuel-saving technique lift and Coast through Corner entry to save as much as you can while keeping under the minimum laptop
+re_fuelmanagement_intro_02.ogg : testing fuel management Hazel trying to lift and Coast going into the corners don't be too aggressive on the power but remember you still have to beat the minimum lifetime
+re_fuel_add_01.ogg : we're fully loaded with fuel that's about 100 kilos in the tank the Caribbean bit heavy to we can burn some of that off so be ready to compensate
+re_fuel_add_02.ogg : alright you carrying around a hundred kilos of fuel at the moment the car should improve as we bring everything up to 10th and lose a bit of that white
+re_fuel_add_03.ogg : fuel load is 90 kg repeat 90 kilos of fuel number
+re_fuel_add_04.ogg : 90 kilos of fuel left in the tank that's 90 kilos remain
+re_fuel_add_05.ogg : okay fuel update we've just dipped on the 80 kilos of fuel 80 kilos of fuel relay
+re_fuel_add_06.ogg : we have the right 80 kilos of fuel left in the tank 80 kilo
+re_fuel_add_07.ogg : looking at around 70 kilos of fuel onboard at the state not 70 kilos to get us three
+re_fuel_add_08.ogg : 70 kg of fuel remaining that's 70 kg
+re_fuel_add_09.ogg : we now have 60 kg of fuel remaining
+re_fuel_add_10.ogg : quick update on the fuel level we're currently running with sixty kilos that 60 kilos into 10
+re_fuel_add_11.ogg : all right here's a heads up on the current fuel we have 50 kg remaining 50 kilos
+re_fuel_add_12.ogg : 50 kg of fuel remaining that is 50 kilos of fuel left
+re_fuel_add_13.ogg : is the current fuel level we have forty kilos remaining 40 kilos
+re_fuel_add_14.ogg : 40 kg of fuel left in the tank.
+re_fuel_add_15.ogg : okay quickfuel update that is 30 kilos left we have 30 kilos of fuel relay
+re_fuel_add_16.ogg : we just stayed under the 30 kilo Mark in terms of fuel we have Thirty kilos of fuel remaining
+re_fuel_add_17.ogg : when I running at 25 kilos of fuel that's 25 remind
+re_fuel_add_18.ogg : we have 25 kg of fuel left in the tank twenty-five kilos of fuel lines
+re_fuel_add_19.ogg : 20 kilos of fuel remaining we have twenty kilos of few
+re_fuel_add_20.ogg : okay here's the fuel situation at the moment we have twenty kilos remaining 20 kilos
+re_fuel_add_21.ogg : fuel level is now fifteen kilos that are 15 kilos of fuel relay
+re_fuel_add_22.ogg : looks like we just hit the 15 kilo malcontents a fuel 15 kilos if you remain
+re_fuel_add_23.ogg : okay this 10 kilos of fuel left 10 kilos of
+re_fuel_add_24.ogg : information for you on the fuel I'll level is now a 10kg that's 10 kg of fuel
+re_fuel_add_25.ogg : 5 kilos of fuel in the tank just five kilos of fuel relay
+re_fuel_add_26.ogg : we've only got about five kilos of fuel remaining now that's five kilos of few
+re_fuel_add_27.ogg : okay we're running on fumes now this is the last Kila what's up with you
+re_fuel_add_28.ogg : okay the tank is pretty much dry no way down to the last key level 2 we're running on fumes
+re_fuel_add_57.ogg : is just 5% of all initial fuel load leftover 5%
+re_fuk_ahd_01.ogg : Focus Indiana
+re_fuk_ahd_02.ogg : izumi's ahead of
+re_fuk_ahd_03.ogg : Could not recognize audio, skipping.
+re_fuk_ahd_04.ogg : Could not recognize audio, skipping.
+re_fuk_bhd_01.ogg : Kazumi behind
+re_fuk_bhd_02.ogg : izumi's behind
+re_fuk_bhd_03.ogg : right behind
+re_fuk_bhd_04.ogg : Nu razor
+re_fuk_hgap_01.ogg : to Kazumi just the head coach for the position
+re_fuo_ahd_01.ogg : Fuoco ahead
+re_fuo_ahd_02.ogg : Fuoco is ahead of
+re_fuo_ahd_03.ogg : Antonio
+re_fuo_ahd_04.ogg : Antonio is ahead of
+re_fuo_bhd_01.ogg : Fuoco behind
+re_fuo_bhd_02.ogg : Fuoco is behind
+re_fuo_bhd_03.ogg : Antonio behind
+re_fuo_bhd_04.ogg : Antonio is behind
+re_fuo_hgap_01.ogg : Coco just ahead push for the position
+re_fwing_01.ogg : confirmed will adjust the front wing on your next box
+re_fwing_02.ogg : adjusting the arrow on your next.
+re_gap_00_01.ogg : cafes less than a second
+re_gap_00_02.ogg : s separate
+re_gap_01_01.ogg : the Gap is just one second
+re_gap_01_02.ogg : just one second separates
+re_gap_02_01.ogg : is 2 seconds
+re_gap_02_02.ogg : a 2-second gap separates
+re_gap_03_01.ogg : a 3-second
+re_gap_03_02.ogg : 3 seconds separate
+re_gap_04_01.ogg : Could not recognize audio, skipping.
+re_gap_04_02.ogg : as separate
+re_gap_05_01.ogg : please find s
+re_gap_05_02.ogg : 5 Seconds separate
+re_gap_06_01.ogg : the Gap is 6 seconds
+re_gap_06_02.ogg : 6 second Gap separating
+re_gap_07_01.ogg : Cafe 7 Seconds
+re_gap_07_02.ogg : captive 7-second separates
+re_gap_08_01.ogg : is 8 Seconds
+re_gap_08_02.ogg : 8 seconds separate
+re_gap_09_01.ogg : is 9 seconds
+re_gap_09_02.ogg : 9 seconds separate
+re_gap_10_01.ogg : is 10 seconds
+re_gap_10_02.ogg : 10-second separate
+re_gap_11_01.ogg : cafes 11 seconds
+re_gap_11_02.ogg : 11 seconds separate
+re_gap_12_01.ogg : Gap is 12 seconds
+re_gap_12_02.ogg : 12 seconds separate
+re_gap_13_01.ogg : Cappy's 13 seconds
+re_gap_13_02.ogg : 13 seconds separate
+re_gap_14_01.ogg : is 14 seconds
+re_gap_14_02.ogg : 14 seconds separate
+re_gap_15_01.ogg : is 15 S Plus
+re_gap_15_02.ogg : 15 + separated
+re_gap_1lap_01.ogg : full lap separate
+re_gap_1lap_02.ogg : you're separated Vine in Tyler
+re_gap_20_01.ogg : Camp is around 20 + 20 +
+re_gap_20_02.ogg : 20 + S separate
+re_gap_2lap_01.ogg : overlap separates
+re_gap_2lap_02.ogg : more than a lap separates the both of
+re_gap_30_01.ogg : Could not recognize audio, skipping.
+re_gap_30_02.ogg : 30 + S separated
+re_gap_40_01.ogg : closing in on 40 + 40 +
+re_gap_40_02.ogg : ran 40-plus separates the two of you
+re_gap_50_01.ogg : it's looking like it's 50 plus s
+re_gap_50_02.ogg : 50 + sobriety 50 +
+re_gap_60_01.ogg : 60 +
+re_gap_60_02.ogg : 60 + separate
+re_gap_ahd_01.ogg : recap to the counter
+re_gap_ahd_02.ogg : call Gap to the car in front
+re_gap_ahd_03.ogg : okay
+re_gap_ahd_04.ogg : confronted
+re_gap_bhd_01.ogg : down to the car behind
+re_gap_bhd_02.ogg : behind
+re_gap_bhd_03.ogg : okay Andy got behind days
+re_gap_bhd_04.ogg : he got behind us
+re_gap_gen_01.ogg : eCampus
+re_gap_gen_01b.ogg : play cafes
+re_gap_gen_02.ogg : differences
+re_gap_gen_02b.ogg : differences
+re_gap_ldr_01.ogg : to the leader is
+re_gap_ldr_02.ogg : Gap to First places
+re_gap_ldr_03.ogg : okay Gap Toledo
+re_gap_ldr_04.ogg : distance to the leader is
+re_gap_pits_01.ogg : I just entered the pits
+re_gap_pits_02.ogg : into the pit line
+re_gap_tm_01.ogg : deleting all team 85
+re_gap_tm_02.ogg : map to Team 8 Behind These
+re_gap_tm_03.ogg : quick training on teammates by
+re_gap_tm_04.ogg : Tootsie made ahead
+re_gar_prg_firsttime_01.ogg : this is your practice program screen there are a few different types of program each with different objectives and results points for completing them to an acceptable or exceptional standard you can view the details and select your program from here
+re_gar_prg_status_01.ogg : we have a number of programs to run during the practice session you can check the details in the car Monica will get good data for both erase and Factory teams so that well with run
+re_gar_prg_status_02.ogg : when you get a chance make sure to run some of our practice programs they don't only to be done in one session but this valuable datapad to help race strategy and development
+re_gar_prg_status_03.ogg : remember we have a number of practice programs to run it'll be very beneficial for the team if we do these this is the only session remain to do them so let's get on that pump
+re_gar_prg_status_04.ogg : okay we haven't yet run any of those stand-up programs over the course of practice it'll be a boost to call development if we can look that day too so we should do our best to do so before the end of the session
+re_gar_prg_status_05.ogg : we'd like to run the accounting program if you have a chance before qualifying it'll give us a good indication about relative Pace inconsistency
+re_gar_prg_status_06.ogg : at some point before qualifying let's get on track acclimatization program complete it'll help us identify any specific problem areas on the circle
+re_gar_prg_status_07.ogg : okay this is the only session that we got left to complete our acclimatisation program so let's get out
+re_gar_prg_status_18.ogg : I know it's tempting to focus entirely on the rice but we should put a bit of time assigned to run the qualifying Sim program try to run it before the end of that P3 if he can
+re_gar_prg_status_19.ogg : okay we've not got long between now and qualifying so be very productive for us to run the qualifying Pace evaluation we can get some good are indeed a true as well if we completed
+re_gar_prg_status_20.ogg : as you know this is the third and final practice session of the weekend if we want to run our qualifying Sim program and I strongly recommend we do just that this is our last chance
+re_gar_tyrerules_01.ogg : okay just want to remind you to keep an eye on your tire usage we have to give two sets back at the end of this session so they'll be unavailable for the rest of the weekend will hand over the two most warm sets so don't ruin ties you might want to use later
+re_gar_tyrerules_02.ogg : quick notes about ties just bear in mind we have to return the two most warm sets at the end of the session that Gone Forever at that point so be careful how and when you use them and don't waste any sets that you might need later
+re_gar_tyrerules_03.ogg : at the end of the session we need to return two sets of tires will give back the two most warm sets so we might as well get the most out of them while we can they won't be available for the rest of the weekend though so don't run too hard on anything you might need later on
+re_gas_ahd_01.ogg : Could not recognize audio, skipping.
+re_gas_ahd_02.ogg : ghastly's ahead of
+re_gas_ahd_03.ogg : Could not recognize audio, skipping.
+re_gas_ahd_04.ogg : is Pierre Adam
+re_gas_bhd_01.ogg : qaswida
+re_gas_bhd_02.ogg : ghastly's behind
+re_gas_bhd_03.ogg : Could not recognize audio, skipping.
+re_gas_bhd_04.ogg : Ciara
+re_gel_ahd_01.ogg : kelelahan
+re_gel_ahd_02.ogg : Could not recognize audio, skipping.
+re_gel_ahd_03.ogg : Could not recognize audio, skipping.
+re_gel_ahd_04.ogg : showing it ahead of you
+re_gel_bhd_01.ogg : Could not recognize audio, skipping.
+re_gel_bhd_02.ogg : behind you
+re_gel_bhd_03.ogg : showing behind
+re_gel_bhd_04.ogg : doing it behind
+re_gel_hgap_01.ogg : dial just ahead push for the position
+re_ghi_ahd_01.ogg : Could not recognize audio, skipping.
+re_ghi_ahd_02.ogg : he also is a head of
+re_ghi_ahd_03.ogg : Luka ahead
+re_ghi_ahd_04.ogg : Luca is ahead of
+re_ghi_bhd_01.ogg : October
+re_ghi_bhd_02.ogg : who's behind
+re_ghi_bhd_03.ogg : Luca behind
+re_ghi_bhd_04.ogg : Luca is behind you
+re_ghi_hgap_01.ogg : The Outsiders just ahead push for the position
+re_gio_ahd_01.ogg : coconuts
+re_gio_ahd_02.ogg : Nazi is ahead of
+re_gio_ahd_03.ogg : Antonio Hayes
+re_gio_ahd_04.ogg : Antonio is ahead of
+re_gio_bhd_01.ogg : Nazi Bell
+re_gio_bhd_02.ogg : Nazis behind
+re_gio_bhd_03.ogg : Antonio behind
+re_gio_bhd_04.ogg : Antonio is behind you
+re_gio_hgap_01.ogg : Nazis just ahead push for the position
+re_green_flg_01.ogg : okay the incident has been cleared let's get back up to racing speed
+re_greet_01.ogg : Could not recognize audio, skipping.
+re_gro_ahd_01.ogg : Roshan ahead
+re_gro_ahd_02.ogg : Roshan is ahead of you
+re_gro_ahd_03.ogg : that's romantic
+re_gro_ahd_04.ogg : Could not recognize audio, skipping.
+re_gro_bhd_01.ogg : Roshan behind
+re_gro_bhd_02.ogg : Could not recognize audio, skipping.
+re_gro_bhd_03.ogg : remember her
+re_gro_bhd_04.ogg : behind
+re_gun_ahd_01.ogg : Sentara
+re_gun_ahd_02.ogg : Teresa
+re_gun_ahd_03.ogg : Maximilian
+re_gun_ahd_04.ogg : Maximilian is ahead of
+re_gun_bhd_01.ogg : Could not recognize audio, skipping.
+re_gun_bhd_02.ogg : Pinterest
+re_gun_bhd_03.ogg : Maximilian behind
+re_gun_bhd_04.ogg : Maximilian is behind
+re_gun_hgap_01.ogg : inside just the head coach for the position
+re_ham_ahd_01.ogg : Hamilton
+re_ham_ahd_02.ogg : Could not recognize audio, skipping.
+re_ham_ahd_03.ogg : Louis
+re_ham_ahd_04.ogg : Could not recognize audio, skipping.
+re_ham_bhd_01.ogg : Hamilton behind
+re_ham_bhd_02.ogg : Hamilton is behind
+re_ham_bhd_03.ogg : Could not recognize audio, skipping.
+re_ham_bhd_04.ogg : Lewis's behind
+re_hr_20_01.ogg : conditions don't look like that shifting we're predicting at least 20 minutes of heavy rainfall
+re_hr_20_02.ogg : Heavy Rain to stay a while doesn't look like it's moving anytime soon
+re_hr_20_03.ogg : suggest that this heavy rain will be with us for a while now
+re_hr_20_04.ogg : heavy rain will be staying with us for a while now at least a 20-minute window if heavy rain
+re_hr_all_01.ogg : well it looks like we'll have this downpour throughout the session Heavy Rain conditions to remain right on through to the end
+re_hr_all_02.ogg : it's bad weather doesn't look like it's going anyway Heavy Rain conditions throughout the session
+re_hr_all_03.ogg : Pokemon likely to see a change in the weather for this session looks like it'll be heavy rain throughout
+re_hub_ahd_01.ogg : cubera hat
+re_hub_ahd_02.ogg : to bury the head of
+re_hub_ahd_03.ogg : Antoine
+re_hub_ahd_04.ogg : Antwon is a dad
+re_hub_bhd_01.ogg : too bad a high
+re_hub_bhd_02.ogg : two batteries behind
+re_hub_bhd_03.ogg : Antoine behind
+re_hub_bhd_04.ogg : Antoine is behind
+re_hub_hgap_01.ogg : too bad just a head push for the position
+re_ilo_ahd_01.ogg : Could not recognize audio, skipping.
+re_ilo_ahd_02.ogg : what is a head of
+re_ilo_ahd_03.ogg : Kalamazoo
+re_ilo_ahd_04.ogg : Kalamazoo
+re_ilo_bhd_01.ogg : Could not recognize audio, skipping.
+re_ilo_bhd_02.ogg : what is behind you
+re_ilo_bhd_03.ogg : column behind
+re_ilo_bhd_04.ogg : Callum is behind you
+re_ilo_hgap_01.ogg : just ahead push for the position
+re_intcnf_01.ogg : immediate
+re_intcnf_02.ogg : okay will fit into Sonia next door
+re_intcnf_03.ogg : confirming that will be fitting the intermediate tires
+re_kar_ahd_01.ogg : Korea House
+re_kar_ahd_02.ogg : Tories ahead of
+re_kar_ahd_03.ogg : Could not recognize audio, skipping.
+re_kar_ahd_04.ogg : Nico is ahead of me
+re_kar_bhd_01.ogg : call Rita home
+re_kar_bhd_02.ogg : Cal behind
+re_kar_bhd_03.ogg : Niko behind
+re_kar_bhd_04.ogg : Could not recognize audio, skipping.
+re_kar_hgap_01.ogg : sorry just ahead push for the position
+re_kin_ahd_01.ogg : King
+re_kin_ahd_02.ogg : King is ahead of
+re_kin_ahd_03.ogg : Jordan
+re_kin_ahd_04.ogg : Jordan is ahead of
+re_kin_bhd_01.ogg : King behind
+re_kin_bhd_02.ogg : King is behind
+re_kin_bhd_03.ogg : Jordan behind
+re_kin_bhd_04.ogg : Could not recognize audio, skipping.
+re_kin_hgap_01.ogg : King just ahead push for the position
+re_kub_ahd_01.ogg : qbittorrent
+re_kub_ahd_02.ogg : to bitzer is ahead of
+re_kub_ahd_03.ogg : Could not recognize audio, skipping.
+re_kub_ahd_04.ogg : Robert is ahead of
+re_kub_bhd_01.ogg : Could not recognize audio, skipping.
+re_kub_bhd_02.ogg : B series behind
+re_kub_bhd_03.ogg : Roberts behind
+re_kub_bhd_04.ogg : Could not recognize audio, skipping.
+re_kub_hgap_01.ogg : give it to just ahead push for the position
+re_kvy_ahd_03.ogg : Could not recognize audio, skipping.
+re_kvy_ahd_04.ogg : Could not recognize audio, skipping.
+re_kvy_bhd_01.ogg : KB on Spotify
+re_kvy_bhd_02.ogg : CVS is behind
+re_kvy_bhd_03.ogg : johnnie-o behind
+re_kvy_bhd_04.ogg : Danny always behind you
+re_kvy_hgap_01.ogg : thibiant just ahead push for the position
+re_kyv_ahd_01.ogg : caveat
+re_kyv_ahd_02.ogg : caveat is ahead of
+re_lat_ahd_01.ogg : Latifah had
+re_lat_ahd_02.ogg : Could not recognize audio, skipping.
+re_lat_ahd_03.ogg : Nicholas II
+re_lat_ahd_04.ogg : Nicholas
+re_lat_bhd_01.ogg : Latifah behind
+re_lat_bhd_02.ogg : Latifah's behind
+re_lat_bhd_03.ogg : Nicholas behind
+re_lat_bhd_04.ogg : Nicholas is behind you
+re_lat_hgap_01.ogg : latifi just ahead pushpa position
+re_lec_ahd_01.ogg : McLaren
+re_lec_ahd_02.ogg : declarative
+re_lec_ahd_03.ogg : Charlotte
+re_lec_ahd_04.ogg : Could not recognize audio, skipping.
+re_lec_bhd_01.ogg : Could not recognize audio, skipping.
+re_lec_bhd_02.ogg : Could not recognize audio, skipping.
+re_lec_bhd_03.ogg : Could not recognize audio, skipping.
+re_lec_bhd_04.ogg : Charlotte's behind
+re_line_objfail_01.ogg : it just was not dated
+re_line_objfail_02.ogg : well that's a disappointing result for sure but will try to bounce back in the next
+re_line_objfail_03.ogg : sorry about that I guess that Como go to plan bring her in we'll go over what happened in the debrief
+re_line_objfail_04.ogg : not enough not enough until let's push harder next time okay
+re_line_objfail_05.ogg : I can't say that I'm happy with how today went but I'm sure you gave it your best bad luck next time
+re_line_objfail_06.ogg : well I hope we can do better than that the next race not best day by any means
+re_line_objfail_07.ogg : Shame about the result but I know you gave it everything will come back stronger next time
+re_line_objfail_08.ogg : okay we're on a big gossip about result let's work huh I'm going to get it together for the next Friday
+re_line_objpass_01.ogg : okay good job mate really well done that was a fantastic Drive
+re_line_objpass_02.ogg : great Drive Great Drive we're really happy with that performance
+re_line_objpass_03.ogg : nice work you did well today I think the boss will be happy without me
+re_line_objpass_04.ogg : complain about that one that was an excellent Drive
+re_line_objpass_05.ogg : well down good finish you stepped up and Achieve what we ask good job
+re_line_objpass_06.ogg : chop chop my friend tell job I was a bit worried about this one of the start of the weekend but you've pulled through thank you
+re_line_objpass_07.ogg : thank you for all your hard work out that I was a strong drive and a good Finish Well
+re_line_objpass_08.ogg : good job we did really well superdrive
+re_line_podium_01.ogg : right work well done we're ready happy with the podium
+re_line_podium_02.ogg : yes at the podium excellent Drive the team of especially how this weekend and this is a fantastic reward
+re_line_podium_03.ogg : yes yes yes we're on the podium this weekend great drive thank you
+re_line_podium_04.ogg : brilliant brilliant Jame that's a fantastic Podium super driving really strong Pace very very happy
+re_line_q3neg_01.ogg : okay that's pretty disappointing but we can send it around tomorrow
+re_line_q3neg_02.ogg : sorry about that I just was not.
+re_line_q3neg_03.ogg : blank but don't worry about it just means more fun for us tomorrow
+re_line_q3neg_04.ogg : a bit disappointing but we just need to push hard in the rice and we can still come away with some
+re_line_q3pos_01.ogg : Could not recognize audio, skipping.
+re_line_q3pos_02.ogg : nice job
+re_line_q3pos_03.ogg : excellent lamp
+re_line_q3pos_04.ogg : very happy with that position well done
+re_looktyres_05.ogg : spicy strong puppy away your tires need to go the distance
+re_lor_ahd_01.ogg : Could not recognize audio, skipping.
+re_lor_ahd_02.ogg : Randy's ahead of
+re_lor_ahd_03.ogg : Could not recognize audio, skipping.
+re_lor_ahd_04.ogg : last year was ahead of
+re_lor_bhd_01.ogg : the Randy behind
+re_lor_bhd_02.ogg : and he's behind you
+re_lor_bhd_03.ogg : Palacio Buffet
+re_lor_bhd_04.ogg : Could not recognize audio, skipping.
+re_lor_hgap_01.ogg : the Randy just ahead push for the position
+re_lose_2_p_03.ogg : don't let them get away from you one of them might make a mistake the Lexus Factory
+re_lr_20_01.ogg : it's like rain is going to be with us for a while now
+re_lr_20_02.ogg : like rainbow stay with us for at least 20 minutes maybe more like rain is here to stay
+re_lr_20_03.ogg : at least 20 minutes of light rain
+re_lr_20_04.ogg : this rain could be with us for a while like train conditions for the foreseeable future
+re_lr_all_01.ogg : don't think this light rainbow pasta day but predicting light rain for the entire
+re_lr_all_02.ogg : light rain throughout the session today like rain to stay with us throughout
+re_lr_all_03.ogg : expecting this light rain to stay with us we don't think we'll see a change in the weather throughout the session
+re_mai_ahd_01.ogg : maniac
+re_mai_ahd_02.ogg : Mania
+re_mai_ahd_03.ogg : call Jenna
+re_mai_ahd_04.ogg : Could not recognize audio, skipping.
+re_mai_bhd_01.ogg : Maney Bhai
+re_mai_bhd_02.ogg : behind you
+re_mai_bhd_03.ogg : Arjun Bhai
+re_mai_bhd_04.ogg : behind you
+re_mai_hgap_01.ogg : Maney just ahead push for the position
+re_mak_ahd_01.ogg : Makino a
+re_mak_ahd_02.ogg : Makino is ahead of
+re_mak_ahd_03.ogg : Santa suit
+re_mak_ahd_04.ogg : got a suitcase ahead of
+re_mak_bhd_01.ogg : Makino Buffet
+re_mak_bhd_02.ogg : makino's behind
+re_mak_bhd_03.ogg : got a suitcase behind
+re_mak_bhd_04.ogg : got a few days behind
+re_mak_hgap_01.ogg : Makino just ahead push for the position
+re_mar_ahd_01.ogg : Could not recognize audio, skipping.
+re_mar_ahd_02.ogg : NACA login
+re_mar_ahd_03.ogg : Altima head
+re_mar_ahd_04.ogg : Tim is ahead of
+re_mar_bhd_01.ogg : Could not recognize audio, skipping.
+re_mar_bhd_02.ogg : vaclav is behind
+re_mar_bhd_03.ogg : mountain behind
+re_mar_bhd_04.ogg : Could not recognize audio, skipping.
+re_mar_hgap_01.ogg : apocalypse just ahead push for the position
+re_mat_ahd_01.ogg : Matsushita
+re_mat_ahd_02.ogg : Matsushita ahead of you
+re_mat_ahd_03.ogg : Could not recognize audio, skipping.
+re_mat_ahd_04.ogg : Could not recognize audio, skipping.
+re_mat_bhd_01.ogg : Matsushita behind
+re_mat_bhd_02.ogg : Matsushita was behind
+re_mat_bhd_03.ogg : Haru behind
+re_mat_bhd_04.ogg : behind
+re_mat_hgap_01.ogg : Matsushita just ahead push for the position
+re_maz_ahd_01.ogg : Could not recognize audio, skipping.
+re_maz_ahd_02.ogg : Could not recognize audio, skipping.
+re_maz_ahd_03.ogg : Nikita rihan
+re_maz_ahd_04.ogg : Nikita is ahead of
+re_maz_bhd_01.ogg : Could not recognize audio, skipping.
+re_maz_bhd_02.ogg : Could not recognize audio, skipping.
+re_maz_bhd_03.ogg : Nikita Bhai
+re_maz_bhd_04.ogg : Nikki series behind
+re_maz__hgap_01.ogg : massterpenes just ahead push for the position
+re_mgn_ahd_01.ogg : Could not recognize audio, skipping.
+re_mgn_ahd_02.ogg : Magnuson is ahead of
+re_mgn_ahd_03.ogg : cabinet
+re_mgn_ahd_04.ogg : facts Kevin head of
+re_mgn_bhd_01.ogg : Magnuson behind
+re_mgn_bhd_02.ogg : Magnuson is behind
+re_mgn_bhd_03.ogg : that's Kevin behind
+re_mgn_bhd_04.ogg : Could not recognize audio, skipping.
+re_nor_ahd_01.ogg : Eraserhead
+re_nor_ahd_02.ogg : Norris is ahead of
+re_nor_ahd_03.ogg : Orlando Health
+re_nor_ahd_04.ogg : Could not recognize audio, skipping.
+re_nor_bhd_01.ogg : Norris behind
+re_nor_bhd_02.ogg : Norris is behind
+re_nor_bhd_03.ogg : Lando behind
+re_nor_bhd_04.ogg : Could not recognize audio, skipping.
+re_nor_hgap_01.ogg : Norris just ahead push with a position
+re_oco_ahd_01.ogg : konoha
+re_oco_ahd_02.ogg : Falcone's I had to be
+re_oco_ahd_03.ogg : estevanico
+re_oco_ahd_04.ogg : Could not recognize audio, skipping.
+re_oco_bhd_01.ogg : Volcom behind
+re_oco_bhd_02.ogg : call Connie behind
+re_oco_bhd_03.ogg : Estevan behind
+re_oco_bhd_04.ogg : Esteban is behind you
+re_ot_il_01.ogg : illegal maneuver CPAP position or will receive a penalty
+re_ot_il_02.ogg : okay you need to get that position back that was an illegal overtime
+re_ot_il_03.ogg : that move was illegal return the position
+re_ot_soon_13.ogg : entering the final few laps put the pressure on go for the position
+re_penalty_09.ogg : drive-through penalty you have a drive-through penalty
+re_penalty_10.ogg : have a drive-through penalty you've been given a drive-through penalty
+re_pen_5sg_gen_01.ogg : sleeping head with a five-second penalty for that last incident will have to serve it next time or in the pet
+re_per_ahd_01.ogg : Could not recognize audio, skipping.
+re_per_ahd_02.ogg : Could not recognize audio, skipping.
+re_per_ahd_03.ogg : Could not recognize audio, skipping.
+re_per_ahd_04.ogg : Could not recognize audio, skipping.
+re_per_bhd_01.ogg : Could not recognize audio, skipping.
+re_per_bhd_02.ogg : Could not recognize audio, skipping.
+re_per_bhd_03.ogg : Sergio behind
+re_per_bhd_04.ogg : they said your behind
+re_pitl_rem_01.ogg : okay stay clear the white line on the exit will receive a penalty for Dangerous driving if you cross over into the track
+re_pitpenll_01.ogg : okay you have to save the penalty vissla
+re_pitpenll_02.ogg : this is your last chance to serve the drive-through penalty
+re_pittr_cl_01.ogg : okay Claire exit on the rejoin Claire exit
+re_pittr_cl_02.ogg : track is clear track history
+re_pittr_ncl_01.ogg : okay they'll be some traffic at the pitch exit it's going to be busy on the region
+re_pittr_ncl_02.ogg : okay watch out for traffic
+re_pit_canc_01.ogg : confirmed canceling the stump stay on track
+re_pit_canc_02.ogg : understood no stop go back to the previous play
+re_pit_conf_01.ogg : confirmed will receive you at the end of The Slap
+re_pit_conf_02.ogg : understood stuffing mix
+re_pit_conf_03.ogg : okay we can take you this long
+re_pit_conf_04.ogg : right
+re_pit_conf_05.ogg : sitting this lap then come into the pits of the end of this life
+re_pit_conf_06.ogg : Roxy's currently. Out on track stay on soundtrack
+re_pit_conf_07.ogg : we can't take you right now Peyton next
+re_pit_open_08.ogg : window is open pit window is open
+re_pit_open_09.ogg : window is open pit window currently open
+re_pit_open_10.ogg : window opens next
+re_pit_open_11.ogg : window opens into elapsed time
+re_pit_open_12.ogg : window will open in three laps time take window opens in three laps
+re_pit_open_13.ogg : you have full apps to your pit window open
+re_pit_open_14.ogg : window opens in five laps time five laps
+re_pit_open_15.ogg : 6 laps until your pit window is open
+re_pit_open_16.ogg : window will open in seven laps time
+re_pit_open_17.ogg : window opens in 8 laps time
+re_pit_open_18.ogg : window opens in 9 laps time
+re_pit_open_19.ogg : window will open in 10 minutes time that window opens in 10 laps
+re_pit_open_20.ogg : 11 laps to your pit window open
+re_pit_open_21.ogg : window opens in 12 last time 12
+re_pit_open_22.ogg : 13 laps into your pit window is open
+re_pit_open_23.ogg : when do it open in 14 laps time
+re_pit_open_24.ogg : window opens in 15 laps time
+re_pit_open_25.ogg : you'll pay window opens in 16 laps time
+re_pit_open_26.ogg : window will open in 17 laps time that window opens in 17 laps
+re_pit_open_27.ogg : you have 18 laps to go pick window open
+re_pit_open_28.ogg : window opens in 19 laps time 19 laps
+re_pit_open_29.ogg : 20 laps until you pick window is open
+re_pit_open_30.ogg : window doesn't open for more than 20 laps
+re_pit_rel_01.ogg : go go go
+re_pit_rel_02.ogg : Could not recognize audio, skipping.
+re_pit_rel_03.ogg : exit exit
+re_pit_rel_04.ogg : Could not recognize audio, skipping.
+re_pit_rel_05.ogg : complete
+re_pit_rel_06.ogg : Pogo you'll be racing on the exit
+re_pit_rel_07.ogg : exit now you'll be racing is Elizabeth
+re_pit_rel_08.ogg : I didn't know what racing on the X
+re_pit_stop_01.ogg : stop complete that leaves us with three stops remaining three stop
+re_pit_stop_02.ogg : okay you have three stops remaining three stops left in this strategy
+re_pit_stop_03.ogg : okay we have three scheduled stops remaining now three stops remain
+re_pit_stop_04.ogg : you up two stops remaining two stops remaining in the strategy
+re_pit_stop_05.ogg : okay to start class now to stop
+re_pit_stop_06.ogg : right we have two stops left in this strategy we have two stops plan
+re_pit_stop_07.ogg : okay you only have to stop once now
+re_pit_stop_08.ogg : only one stop to go one stop left in this strategy
+re_pit_stop_09.ogg : will be doing one more stop today One Stop left in our strategy
+re_pit_stop_10.ogg : look out for these times now we want to finish the race on this company
+re_pit_stop_11.ogg : that was a lost dump no more Shadow Pitstop
+re_pit_stop_12.ogg : strategy complete CDs * 3
+re_pit_stop_13.ogg : okay we haven't used both dry compounds yet we still need to come in and fit the alternate come
+re_plbgcrash_02.ogg : what happened let me know you're okay
+re_plbgcrash_05.ogg : are you alright engine off engine off
+re_plbgcrash_06.ogg : are you okay that was a big one confirm you're okay please
+re_plbgcrash_07.ogg : that looks bad are you alright let me know you're alright
+re_plfw_dam_13.ogg : you've lost the front Wing box box box box
+re_plfw_dam_14.ogg : he's gone box box box be careful on the way
+re_plfw_dam_15.ogg : fox now we've lost the front way
+re_plfw_dam_16.ogg : from Wing has gone box now please
+re_plpit_ex_01.ogg : up to speed now let's get some heat into those tires
+re_plpo_qual_01.ogg : fantastic you've got power
+re_pl_bb_03.ogg : remember you can move the brake balance to the rear this may stop your front tires from locking
+re_pl_bb_06.ogg : changing your brake balance forward might reduce your real lookup
+re_pp_gen_complete_green_01.ogg : program complete program complete these results will do all that he could definitely do better consider giving it another shot
+re_pp_gen_complete_green_02.ogg : all right that's the program complete this is some decent data although far from optimal it could still be worth running again
+re_pp_gen_complete_purple_01.ogg : okay testcomplete and that was a very good job Indeed we got a lot of valuable information out
+re_pp_gen_complete_purple_02.ogg : program complete and a job well done we got some excellent days without runs so come on back to the garage and I can talk you through the numbers
+re_pp_gen_complete_red_01.ogg : okay test over but I'm afraid we didn't get what we needed we're going to have to run it again
+re_pp_gen_complete_red_02.ogg : well program over but that wasn't much help to us we need it again I'm afraid
+re_pp_gen_lap_green_01.ogg : okay decent lot better but they still more to find keypad
+re_pp_gen_lap_green_02.ogg : that's an acceptable lamp but you're capable of more if you
+re_pp_gen_lap_purple_01.ogg : right lamp you've never what we ask for keep it up
+re_pp_gen_lap_purple_02.ogg : okay super jump so fun with getting great day to stay focus
+re_pp_gen_lap_red_01.ogg : that lap was no good we need you to improve on that
+re_pp_gen_lap_red_02.ogg : okay you weren't quite good enough outline drawing
+re_prg_end_01.ogg : program complete Good Wife had them back to the original song coming over today
+re_prg_end_02.ogg : right that's the end of the program box this lap so we can analyze the data
+re_prg_end_03.ogg : okay then that's the end of the program and plenty of useful data return to base when you can so we can go over it
+re_prg_end_04.ogg : practice program return to the
+re_prg_end_05.ogg : we didn't really get the date we need it on that run you might want to give it another go
+re_prg_end_06.ogg : we haven't had time program targets come in and take a look at the data and if we have time will rerun the program
+re_prg_lastlap_01.ogg : this is the last lap of the program final lap of the program
+re_prg_lastlap_02.ogg : final lap this is the final lap of the program
+re_qsim_intro_01.ogg : estimated the times our closest Rivals will be doing so that's what we need to be
+re_qsim_intro_02.ogg : don't worry about tires just give it everything in this test we want to make sure we can close to our Rivals base
+re_qsim_upd_01.ogg : shut down and I'll talk at times that's trying to find a bit more
+re_qsim_upd_02.ogg : will want to rerun the program if we can improve on that time
+re_qsim_upd_03.ogg : we could help primary target time we're happy with
+re_qsim_upd_04.ogg : well then that lap Pizza primary target time
+re_qsim_upd_05.ogg : fantastic lab that's beating a second retarget time
+re_qsim_upd_06.ogg : great work we could all s retarget time that Strahan repeat that in qualifying
+re_quickflag_blue_01.ogg : Could not recognize audio, skipping.
+re_quickflag_blue_02.ogg : blue flag blue flag
+re_racepace_upd_01.ogg : we need to pick up the pace when not hitting on target will need to rerun the program if we don't get the tan Delta back in the green
+re_racepace_upd_02.ogg : let's speed up a tie-dye tree no good unless we're doing the representative price if we don't get all turned out it back in the green will need to rerun this
+re_racepace_upd_03.ogg : Casey's good but tell me where that lap was quite severe
+re_racepace_upd_04.ogg : places within the target range but we were hotter than expected on the ties.
+re_racepace_upd_05.ogg : Jesus good and tell me where was okay on the last night
+re_racepace_upd_06.ogg : the pace well light lap and tell me where is more or less as expected
+re_racepace_upd_07.ogg : okay we're happy with the pace and you were especially good to the time out loud
+re_racepace_upd_08.ogg : RightWay managing the pace well and that last lap was easier on the tires than we anticipated
+re_races12_04.ogg : let's continue this phone a name for another top-10 finish
+re_racestart_05.ogg : top three points finish last race let's aim to keep the momentum going
+re_racestart_58.ogg : good result last race let's try to go one better this weekend
+re_racestrategy_intro_01.ogg : okay we need a few solid laps here to help us calculate a good race strategy
+re_racestrategy_intro_02.ogg : some consistent laps please we're looking for good data that we can walk into the race strategy
+re_rag_ahd_01.ogg : raghunathan
+re_rag_ahd_02.ogg : Could not recognize audio, skipping.
+re_rag_ahd_03.ogg : mahavira had
+re_rag_ahd_04.ogg : might have air is ahead of
+re_rag_bhd_01.ogg : ragunathan behind
+re_rag_bhd_02.ogg : raghunathan is behind
+re_rag_bhd_03.ogg : not heavy a behind
+re_rag_bhd_04.ogg : Xavier is behind you
+re_rag_hgap_01.ogg : raghunathan just ahead push for the position
+re_rain_dry_01.ogg : this rain should be stopping anytime soon
+re_rain_dry_02.ogg : the rain is passing expected to ease up in the next few minutes
+re_rain_dry_03.ogg : we think this rain should stop sometime in the next few laps
+re_rain_dry_04.ogg : this rain should be ending shortly
+re_rain_dry_b_01.ogg : we should see a drawing line start to form fairly rapidly to make sure takuya ties down the street
+re_rain_dry_b_02.ogg : be ready for the grip to come back but don't overheat the time
+re_rain_dry_b_03.ogg : times we may have to pick 4 drawing at very short notice
+re_rain_dry_b_04.ogg : the drawing will come in quickly so don't waste any time getting back up to space
+re_rai_ahd_01.ogg : raikkonen
+re_rai_ahd_02.ogg : Could not recognize audio, skipping.
+re_rai_ahd_03.ogg : Could not recognize audio, skipping.
+re_rai_ahd_04.ogg : Could not recognize audio, skipping.
+re_rai_bhd_01.ogg : raikkonen behind
+re_rai_bhd_02.ogg : raikkonen is behind
+re_rai_bhd_03.ogg : Caney Valley
+re_rai_bhd_04.ogg : skinny behind
+re_ric_ahd_01.ogg : Could not recognize audio, skipping.
+re_ric_ahd_02.ogg : Brocato's ahead of you
+re_ric_ahd_03.ogg : that's Daniel
+re_ric_ahd_04.ogg : Daniel is a head of
+re_ric_bhd_01.ogg : Rick Auto behind
+re_ric_bhd_02.ogg : Could not recognize audio, skipping.
+re_ric_bhd_03.ogg : Daniel behind
+re_ric_bhd_04.ogg : Daniel
+re_rs_01.ogg : watching hold until lunchtime
+re_rs_02.ogg : decoction.
+re_rs_03.ogg : feeding the throttle let's build
+re_rs_04.ogg : do some ribs
+re_rs_05.ogg : Could not recognize audio, skipping.
+re_rs_06.ogg : Could not recognize audio, skipping.
+re_rus_ahd_01.ogg : Russell
+re_rus_ahd_02.ogg : Russell is a dove
+re_rus_ahd_03.ogg : Georgia hat
+re_rus_ahd_04.ogg : Georgia
+re_rus_bhd_01.ogg : Russell behind
+re_rus_bhd_02.ogg : Could not recognize audio, skipping.
+re_rus_bhd_03.ogg : George Bhai
+re_rus_bhd_04.ogg : George's behind
+re_rus_hgap_01.ogg : Russell's just ahead push for the position
+re_sch_ahd_01.ogg : Could not recognize audio, skipping.
+re_sch_ahd_02.ogg : Schumaker is ahead of
+re_sch_ahd_03.ogg : make-ahead
+re_sch_ahd_04.ogg : Nick is ahead of
+re_sch_bhd_01.ogg : T-Mac about mine
+re_sch_bhd_02.ogg : Schumaker is behind
+re_sch_bhd_03.ogg : Nick behind
+re_sch_bhd_04.ogg : Nick is behind you
+re_sch_hgap_01.ogg : Schumaker just ahead push for the position
+re_sc_carryon_01.ogg : Nova take the safety, you may overtake the safety car it is waiting to pick up Ellie
+re_sc_carryon_02.ogg : safety car is waiting for the leader you may overtake it overtake the safety
+re_sc_catch_01.ogg : let's catch up to the field events were dropping to fall back remember that we need to stay within 10 Collins of the next
+re_sc_catch_02.ogg : write pick up a patient touch please we need to close to within ten Collins of the car
+re_sc_delta_01.ogg : okay slow down slow down you'll Delta is negative which means you are too fast reduce your pace
+re_sc_delta_02.ogg : drop your speed on Delta is too low and Mariska penalty slow your pace immediately
+re_sc_deploy_01.ogg : safety car safety car overtaking reduce your pace keep your Delta number positive is we former
+re_sc_deploy_02.ogg : safety car deployed the safety car has been deployed what's your Delta make sure you keep it positive as we catch the pack
+re_sc_deploy_03.ogg : phone calls caution to safety Cal and keep an eye on the Delta we need to keep it positive to avoid a penalty slowdown maintain positive Delta
+re_sc_deploy_04.ogg : the safety car is out we need to form up at a reduced Pace keep a close eye on him at Delta time make sure to keep it positive
+re_sc_itl_01.ogg : safety Cal in this lab safety car in this lab you will be controlling the pace on the restart keep it steady until the safety cause reach the pit light
+re_sc_itl_02.ogg : okay to safety, coming in this lab will be pacing the field insect at 3 make sure to respect the Delta until the safety car is in the pit Lane
+re_sc_itl_03.ogg : safety Cal in this lab safety, in this lab let's make sure those times are up to 10% and remember there is no overtaking until the timing Line Stay in position until the green flag
+re_sc_itl_04.ogg : let's get ready to go racing again the safety car is in this lap when the field accelerates remember there is no overtaking until the green flags
+re_sc_leader_01.ogg : coming up to the safety call now do not deposit you are the leader follow the safety
+re_sc_leader_02.ogg : approaching the safety, you'll leading so don't pass it stayed on the safety
+re_sc_overtake_01.ogg : position immediately or we will be penalized there is no overtaking June the safety cam.
+re_sc_overtake_02.ogg : give that position back we are on the safety car conditions and cannot overtake return the position
+re_sc_pass_01.ogg : okay you may overtake the car ahead Thomas the car
+re_sc_pass_02.ogg : plastic our head we are authorized to take the position from the car head
+re_sc_unlap_01.ogg : we have a chance to unlock myself here make your way back onto the Lila
+re_sc_unlap_02.ogg : I was at this point take advantage while you can
+re_setadv_01.ogg : okay if you eat too much over still we can try increasing the railing angle or stiffening the front Springs next time you coming
+re_setadv_02.ogg : right softening the rear springs may help with the other states and we could try taking some tons off the front way
+re_setadv_03.ogg : okay let's think about stiffening the rear springs or increasing the front Wing angle for best attorney
+re_setadv_04.ogg : we might be able to download some of that under stair with less rear wing or something from Springs
+re_setadv_05.ogg : okay if you can pull traction it might be worth putting some more downforce on when you come in
+re_set_ahd_01.ogg : set a camera
+re_set_ahd_02.ogg : static camera is ahead of
+re_set_ahd_03.ogg : Could not recognize audio, skipping.
+re_set_ahd_04.ogg : Sergey I was ahead of you
+re_set_bhd_01.ogg : set a camera behind
+re_set_bhd_02.ogg : SFA cameras behind
+re_set_bhd_03.ogg : Sergio behind
+re_set_bhd_04.ogg : Sergio is behind
+re_set_hgap_01.ogg : SEPTA cameras just a head coach for the position
+re_snz_ahd_01.ogg : signs of
+re_snz_ahd_02.ogg : signs
+re_snz_ahd_03.ogg : hollister
+re_snz_ahd_04.ogg : calluses
+re_snz_bhd_01.ogg : signs behind
+re_snz_bhd_02.ogg : signs he's behind
+re_snz_bhd_03.ogg : cauliflower
+re_snz_bhd_04.ogg : Could not recognize audio, skipping.
+re_stl_ahd_01.ogg : stroller
+re_stl_ahd_02.ogg : scroll is ahead of
+re_stl_ahd_03.ogg : Could not recognize audio, skipping.
+re_stl_ahd_04.ogg : Could not recognize audio, skipping.
+re_stl_bhd_01.ogg : stroll behind
+re_stl_bhd_02.ogg : scroll is behind
+re_stl_bhd_03.ogg : Pat's Lounge behind
+re_stl_bhd_04.ogg : behind
+re_time_fastestlap_01.ogg : the fastest lap of the race so far is
+re_time_fastestlap_02.ogg : currently the fastest
+re_time_fastestlap_03.ogg : fastest lap at this point in time is a
+re_time_lapbest_01.ogg : I'm so sorry.
+re_time_lapbest_01b.ogg : Could not recognize audio, skipping.
+re_time_lapbest_01c.ogg : best lamp sofa
+re_time_lapbest_02.ogg : so far off.
+re_time_lapbest_02b.ogg : so far fastest route
+re_time_lapbest_02c.ogg : so far off fastest lap
+re_time_laplast_01.ogg : Could not recognize audio, skipping.
+re_time_laplast_01b.ogg : launch lamp
+re_time_laplast_01c.ogg : Could not recognize audio, skipping.
+re_time_laplast_02.ogg : btime last-lap was
+re_time_laplast_02b.ogg : vetoing lost lamp
+re_time_laplast_02c.ogg : the time last-lap was
+re_time_laplast_03.ogg : Could not recognize audio, skipping.
+re_time_laplast_03b.ogg : okay. Last laugh
+re_time_laplast_03c.ogg : okay that last lap was
+re_time_laplast_04.ogg : okay that's on last lap was a
+re_time_laplast_04b.ogg : okay the timeline
+re_time_laplast_04c.ogg : can I have the time last-lap was
+re_time_laprival_01.ogg : the best laptop
+re_time_laprival_01b.ogg : time is it
+re_time_laprival_02.ogg : best lap time is a
+re_time_laprival_02b.ogg : best lap time is it
+re_time_m_1_01.ogg : 1
+re_time_m_1_02.ogg : one minute
+re_time_m_2_01.ogg : 2
+re_time_m_2_02.ogg : 2 minute
+re_time_m_3_01.ogg : 3
+re_time_m_3_02.ogg : 3 minute
+re_time_pen_01.ogg : you've been awarded a Time penalty for that last incident
+re_time_pen_02.ogg : weeping awarded the time penalty it will go against off finishing time at the end of the race
+re_time_s_00.ogg : 0
+re_time_s_00_nozero.ogg : 0
+re_time_s_01.ogg : 1
+re_time_s_01_nozero.ogg : 1
+re_time_s_02.ogg : Could not recognize audio, skipping.
+re_time_s_02_nozero.ogg : Could not recognize audio, skipping.
+re_time_s_03.ogg : free
+re_time_s_03_nozero.ogg : free
+re_time_s_04.ogg : Could not recognize audio, skipping.
+re_time_s_04_nozero.ogg : Could not recognize audio, skipping.
+re_time_s_05.ogg : 5
+re_time_s_05_nozero.ogg : 5
+re_time_s_06.ogg : 6
+re_time_s_06_nozero.ogg : 6
+re_time_s_07.ogg : 7
+re_time_s_07_nozero.ogg : 7
+re_time_s_08.ogg : Could not recognize audio, skipping.
+re_time_s_08_nozero.ogg : Could not recognize audio, skipping.
+re_time_s_09.ogg : Could not recognize audio, skipping.
+re_time_s_09_nozero.ogg : Could not recognize audio, skipping.
+re_time_s_10.ogg : Could not recognize audio, skipping.
+re_time_s_11.ogg : 11
+re_time_s_12.ogg : Could not recognize audio, skipping.
+re_time_s_13.ogg : 13
+re_time_s_14.ogg : 14
+re_time_s_15.ogg : 15
+re_time_s_16.ogg : 16
+re_time_s_17.ogg : 17
+re_time_s_18.ogg : 18
+re_time_s_19.ogg : 19
+re_time_s_20.ogg : 20
+re_time_s_21.ogg : 21
+re_time_s_22.ogg : 22
+re_time_s_23.ogg : 23
+re_time_s_24.ogg : 24
+re_time_s_25.ogg : 25
+re_time_s_26.ogg : 26
+re_time_s_27.ogg : 27
+re_time_s_28.ogg : 28
+re_time_s_29.ogg : 29
+re_time_s_30.ogg : 30
+re_time_s_31.ogg : 31
+re_time_s_32.ogg : 32
+re_time_s_33.ogg : 33
+re_time_s_34.ogg : 34
+re_time_s_35.ogg : 35
+re_time_s_36.ogg : 36
+re_time_s_37.ogg : 37
+re_time_s_38.ogg : 38
+re_time_s_39.ogg : 39
+re_time_s_40.ogg : 40
+re_time_s_41.ogg : 41
+re_time_s_42.ogg : 42
+re_time_s_43.ogg : 43
+re_time_s_44.ogg : 44
+re_time_s_45.ogg : 45
+re_time_s_46.ogg : 46
+re_time_s_47.ogg : 47
+re_time_s_48.ogg : 48
+re_time_s_49.ogg : 49
+re_time_s_50.ogg : 50
+re_time_s_51.ogg : 51
+re_time_s_52.ogg : 52
+re_time_s_53.ogg : 53
+re_time_s_54.ogg : 54
+re_time_s_55.ogg : 55
+re_time_s_56.ogg : 56
+re_time_s_57.ogg : 57
+re_time_s_58.ogg : 58
+re_time_s_59.ogg : 59
+re_time_t_0.ogg : point zero
+re_time_t_1.ogg : .1
+re_time_t_2.ogg : Could not recognize audio, skipping.
+re_time_t_3.ogg : point three
+re_time_t_4.ogg : Could not recognize audio, skipping.
+re_time_t_5.ogg : .5
+re_time_t_6.ogg : .6
+re_time_t_7.ogg : poinsettia
+re_time_t_8.ogg : 20
+re_time_t_9.ogg : .9
+re_time_t_s_0.ogg : 0 seconds
+re_time_t_s_1.ogg : .1 seconds
+re_time_t_s_2.ogg : 2 seconds
+re_time_t_s_3.ogg : point three seconds
+re_time_t_s_4.ogg : point four seconds
+re_time_t_s_5.ogg : point five seconds
+re_time_t_s_6.ogg : 0.6 seconds
+re_time_t_s_7.ogg : point seven seconds
+re_time_t_s_8.ogg : .8 seconds
+re_time_t_s_9.ogg : .9 seconds
+re_turnapex_01.ogg : Weslo through the following corners
+re_turnapex_02.ogg : seems like we're a bit slow in these corner
+re_turnapex_03.ogg : you seem to be struggling a little in the following turn
+re_turnapex_04.ogg : decimal time to be found in these tons
+re_turnapex_05.ogg : we can definitely speed up a base in the following Corona
+re_turnnum_01.ogg : Time Warner
+re_turnnum_01c.ogg : Phantom 1
+re_turnnum_02.ogg : turn to
+re_turnnum_02c.ogg : sentence
+re_turnnum_03.ogg : country
+re_turnnum_03c.ogg : intensely
+re_turnnum_04.ogg : 10-4
+re_turnnum_04c.ogg : Canton fall
+re_turnnum_05.ogg : confine
+re_turnnum_05c.ogg : 175
+re_turnnum_06.ogg : Could not recognize audio, skipping.
+re_turnnum_06c.ogg : sentences
+re_turnnum_07.ogg : 77
+re_turnnum_07c.ogg : Denton 7
+re_turnnum_08.ogg : tonight
+re_turnnum_08c.ogg : Could not recognize audio, skipping.
+re_turnnum_09.ogg : Could not recognize audio, skipping.
+re_turnnum_09c.ogg : Could not recognize audio, skipping.
+re_turnnum_10.ogg : 1010
+re_turnnum_10c.ogg : benten10
+re_turnnum_11.ogg : 7-Eleven
+re_turnnum_11c.ogg : Could not recognize audio, skipping.
+re_turnnum_12.ogg : 1012
+re_turnnum_12c.ogg : Denton 12
+re_turnnum_13.ogg : 1013
+re_turnnum_13c.ogg : 1013
+re_turnnum_14.ogg : 1014
+re_turnnum_14c.ogg : 1714
+re_turnnum_15.ogg : 10:15
+re_turnnum_15c.ogg : 10:15
+re_turnnum_16.ogg : 1016
+re_turnnum_16c.ogg : m1060
+re_turnnum_17.ogg : 1017
+re_turnnum_17c.ogg : Fenton 17
+re_turnnum_18.ogg : turn 18
+re_turnnum_18c.ogg : winter 19
+re_turnnum_19.ogg : 1019
+re_turnnum_19c.ogg : 1219
+re_turnnum_20.ogg : 1020
+re_turnnum_20c.ogg : 1020
+re_turnnum_21.ogg : 1021
+re_turnnum_21c.ogg : 1021
+re_turnnum_22.ogg : 1022
+re_turnnum_22c.ogg : 1022
+re_turnnum_23.ogg : 1023
+re_turnnum_23c.ogg : 123
+re_tyremanagement_intro_01.ogg : we need to be sure you can manage the tires through a lamp so trying to keep the way down through Each corner be especially careful accelerating on Corner exit
+re_tyremanagement_intro_02.ogg : this test is all about Towing management trying to control the slip through Each corner and take extra cab putting the power down at the Apex
+re_tyrwear_03.ogg : where rates are lower than we expect
+re_tyrwear_04.ogg : there's less time than we said they should last a while
+re_tyrwear_07.ogg : segregation is pretty bad the Griffeys going to fold away quick
+re_tyrwear_09.ogg : is good tide Aggies good
+re_tyrwear_10.ogg : equitation is on target for S good job
+re_tyrwear_11.ogg : you'll tell me where is On Target tell me where is On Target
+re_tyrwear_12.ogg : okay we've looked up anytime equitation and it pays to match our predictions keep this up
+re_t_dead_01.ogg : okay just so you're aware the previous set of tires were in a terrible State we can't use them again
+re_t_dead_02.ogg : right we've had a look at your last set of tires and that far gone for you to use again
+re_t_scrub_01.ogg : describe times should rubber in Faster allowing you to start the push suit
+re_t_scrub_02.ogg : you be able to push Sunnah once these scrub ties are up to speed
+re_vc_01lap_01.ogg : this is your final lap final lap of the race
+re_vc_02lap_01.ogg : next month I will be your final
+re_vc_03lap_01.ogg : just three laps to go now three laps
+re_vc_04lap_01.ogg : four laps remaining
+re_vc_05lap_01.ogg : five laps to Leanne
+re_vc_06lap_01.ogg : 6 laps to go
+re_vc_07lap_01.ogg : 7 laps to go
+re_vc_08lap_01.ogg : wraps2go
+re_vc_09lap_01.ogg : 9 laps to go
+re_vc_10lap_01.ogg : 10 laps to go
+re_vc_11lap_01.ogg : 11 laps to go
+re_vc_12lap_01.ogg : 12 laps to go
+re_vc_13lap_01.ogg : 13 laps to go
+re_vc_14lap_01.ogg : 14 laps to go
+re_vc_15lap_01.ogg : 15 laps Still Remains
+re_vc_16lap_01.ogg : 16 laps to go
+re_vc_17lap_01.ogg : 17 laps to go
+re_vc_18lap_01.ogg : 18 laps to go
+re_vc_19lap_01.ogg : 19 laps to go
+re_vc_20lap_01.ogg : you have 20 laps
+re_vc_21lap_01.ogg : 21 laps to go
+re_vc_22lap_01.ogg : 22 laps to go
+re_vc_23lap_01.ogg : 23 laps to go
+re_vc_24lap_01.ogg : 24 laps to go
+re_vc_25lap_01.ogg : you have 25 laps to go
+re_vc_26lap_01.ogg : 26 laps to go
+re_vc_27lap_01.ogg : 27 laps to go
+re_vc_28lap_01.ogg : 28 laps to go
+re_vc_29lap_01.ogg : 29 laps to go
+re_vc_30lap_01.ogg : set alarm
+re_vc_31lap_01.ogg : 31 laps to go
+re_vc_32lap_01.ogg : 52 laps to go
+re_vc_33lap_01.ogg : 33 laps to go
+re_vc_34lap_01.ogg : 34 laps to go
+re_vc_35lap_01.ogg : there are 35 laps left in the race
+re_vc_36lap_01.ogg : 36 laps to go
+re_vc_37lap_01.ogg : 37 laps to go
+re_vc_38lap_01.ogg : 38 laps to go
+re_vc_39lap_01.ogg : 39 laps to go
+re_vc_40lap_01.ogg : 40 laps to go now
+re_vc_41lap_01.ogg : 41 laps to go
+re_vc_42lap_01.ogg : 42 laps to go
+re_vc_43lap_01.ogg : 43 laps to go
+re_vc_44lap_01.ogg : 44 laps to go
+re_vc_45lap_01.ogg : we still have 45 laps to complete
+re_vc_46lap_01.ogg : 46 laps to go
+re_vc_47lap_01.ogg : 47 laps to go
+re_vc_48lap_01.ogg : 48 laps to go
+re_vc_49lap_01.ogg : 49 laps to go
+re_vc_50lap_01.ogg : 50 laps to go
+re_vc_aeroad_01.ogg : we'll make the adjustments next time you paid
+re_vc_aeroad_02.ogg : confirmed will make the changes on your next.
+re_vc_aeroad_03.ogg : okay from going to be adjusted next time you
+re_vc_aeroad_04.ogg : okay we'll leave the front Wing angle to a balance setting next on you
+re_vc_aeroad_05.ogg : confirm that will be moving the front wing for a balance setting next time you're in
+re_vc_aeroad_06.ogg : moving you to a balanced downforce on your next stop
+re_vc_aeroad_07.ogg : confirmed moving the angle of the front Wing to a plus one setup
+re_vc_aeroad_08.ogg : okay I'll have the pit team send you out with arrow setting Plus One will move Arrow 2 + 1
+re_vc_aeroad_09.ogg : will make the changes to the front Wing next time you're in front Wing angle 2 + 1 + 1
+re_vc_aeroad_10.ogg : confirming that will be raising the front Wing angle TwoPlusTwo on your next stop + 22 error
+re_vc_aeroad_11.ogg : okay plus 21 Arrow will raise the front Wing angle on your next door
+re_vc_aeroad_12.ogg : kapiti move you over to a plus to Arrow setup
+re_vc_aeroad_13.ogg : confirming that will be moving you to a narrow setting of -1 - 1
+re_vc_aeroad_14.ogg : will shift the angle of the front Wing into the -1 set up moving the front Wing to -1 on your next.
+re_vc_aeroad_15.ogg : moving you to front Wing - 1 moving to Manas one on the front wing with your next pet
+re_vc_aeroad_16.ogg : okay will drop the angle of the front Wing write down moving the arrow 2 - 2 on Nex-Tech
+re_vc_aeroad_17.ogg : I'll have the team drop the front Wing angled right down we'll move your arrow setup two- to when your next day
+re_vc_aeroad_18.ogg : will drop the front Wing to -2 on the nextbox -2 on Nextdoor
+re_vc_aeroba_01.ogg : front Wing is balanced down4sound the car is even
+re_vc_aeroba_02.ogg : from Wing is set to balance
+re_vc_aeroba_03.ogg : play running a balanced from
+re_vc_aerom1_01.ogg : front Arrow settings are at -1
+re_vc_aerom1_02.ogg : the front Wing is set to -1
+re_vc_aerom1_03.ogg : we have the front Wing running it to -1 the front Wing angle his set 2 - 1
+re_vc_aerom2_01.ogg : front Wing is at the - 2 set
+re_vc_aerom2_02.ogg : front Wing is at the - 2 set
+re_vc_aerom2_03.ogg : front-end downforce is at -2 the front Wing is set to -2
+re_vc_aerop1_01.ogg : from Arrow Angela set 2 + 1 + 1
+re_vc_aerop1_02.ogg : front down for settings or a plus one
+re_vc_aerop1_03.ogg : the Franklin Angela said 2 + 1 + 1
+re_vc_aerop2_01.ogg : the front Wing angle is that + 2 + 2
+re_vc_aerop2_02.ogg : from Wings on the plus to set
+re_vc_aerop2_03.ogg : front Wing downforce is a plus-2 from when angle at plus two
+re_vc_aistops_01.ogg : we think they've got one more stop
+re_vc_aistops_02.ogg : we think they've got two stops remaining
+re_vc_aistops_03.ogg : we think they've got at least three more stops
+re_vc_cnfrm_01.ogg : confirm
+re_vc_cnfrm_02.ogg : Could not recognize audio, skipping.
+re_vc_cnfrm_03.ogg : call Peanut
+re_vc_cnfrm_04.ogg : understood copied
+re_vc_cnfrm_05.ogg : okay copy
+re_vc_cnfrm_06.ogg : confirm
+re_vc_dryinter_besttyre_01.ogg : which is the best time right now drawings or inside
+re_vc_dryinter_besttyre_02.ogg : not sure whether drawings or into the faster we're ranked on the crossover
+re_vc_dry_besttyre_01.ogg : Could not recognize audio, skipping.
+re_vc_dry_besttyre_02.ogg : the fastest time
+re_vc_fl_box_01.ogg : negative stay out this is the formation lap we cannot work on the car there is no reason to come in do not box negative thoughts
+re_vc_fl_box_02.ogg : sorry no don't do that what good would that day we can't do anything to the car I'm have a race to get on with do not try to come in just form up on the grid okay
+re_vc_freshtyre_01.ogg : impression
+re_vc_freshtyre_02.ogg : fresh medium
+re_vc_freshtyre_03.ogg : bedroom fresh soft
+re_vc_freshtyre_04.ogg : bedroom fresh super soft
+re_vc_freshtyre_05.ogg : I'm fresh out results
+re_vc_freshtyre_06.ogg : fresh Dental
+re_vc_freshtyre_07.ogg : fresh wax
+re_vc_freshtyre_08.ogg : bedroom fresh super hot
+re_vc_freshtyre_09.ogg : Jerome fresh hypersoft
+re_vc_fullwet_besttyre_01.ogg : for what seemed like the best time for now
+re_vc_fullwet_besttyre_02.ogg : food Wentz seem to be the fastest time for now
+re_vc_interwet_besttyre_01.ogg : it's hard to say Vince's or wet Sabetha right now
+re_vc_interwet_besttyre_02.ogg : Winters and wets will probably have similar Pace in the Moana
+re_vc_inter_besttyre_01.ogg : Winters look like the best time
+re_vc_inter_besttyre_02.ogg : into seem like the fastest time for now
+re_vc_nodata_01.ogg : we don't have the date of that I'm afraid
+re_vc_nodata_02.ogg : we don't currently have the date of that request
+re_vc_nodata_03.ogg : sorry we can't provide you with that information right now
+re_vc_oldtyre_01.ogg : old hard
+re_vc_oldtyre_02.ogg : old median
+re_vc_oldtyre_03.ogg : Ronald soft
+re_vc_oldtyre_04.ogg : old super soft
+re_vc_oldtyre_05.ogg : old Ultra Soft
+re_vc_oldtyre_06.ogg : old inter
+re_vc_oldtyre_07.ogg : Ronald Wayne
+re_vc_oldtyre_08.ogg : Could not recognize audio, skipping.
+re_vc_oldtyre_09.ogg : down old hypersoft
+re_vc_pos10_01.ogg : clear intent 10th position
+re_vc_pos10_02.ogg : pretend you're in P10
+re_vc_pos11_01.ogg : currently P11 we're currently PLS
+re_vc_pos11_02.ogg : 11 11th Place
+re_vc_pos12_01.ogg : with Satin p12
+re_vc_pos12_02.ogg : B12 we have P 12
+re_vc_pos13_01.ogg : b15u are currently in PG-13
+re_vc_pos13_02.ogg : rp13 p13
+re_vc_pos14_01.ogg : MP40
+re_vc_pos14_02.ogg : 14 position you're in 14th position
+re_vc_pos15_01.ogg : 315 70 15
+re_vc_pos15_02.ogg : you have P 15 P 15
+re_vc_pos16_01.ogg : M16
+re_vc_pos16_02.ogg : 16 we have p16
+re_vc_pos17_01.ogg : B-17 now we have P 17
+re_vc_pos17_02.ogg : earring p17 p17
+re_vc_pos18_01.ogg : 18th Place you're in 18th Place
+re_vc_pos18_02.ogg : MP18
+re_vc_pos19_01.ogg : 19 you have P90
+re_vc_pos19_02.ogg : you currently hold 19th 19th Place
+re_vc_pos1_01.ogg : you are in first position front of the pack
+re_vc_pos1_02.ogg : you're leading the pack peewee
+re_vc_pos20_01.ogg : 2020 P20
+re_vc_pos20_02.ogg : P20 right now P20
+re_vc_pos21_01.ogg : currently p21 Wake County p21
+re_vc_pos21_02.ogg : 2020
+re_vc_pos22_01.ogg : assassin 22nd that's P22
+re_vc_pos22_02.ogg : P22 yellow satin 22nd position
+re_vc_pos2_01.ogg : second place you're in second place
+re_vc_pos2_02.ogg : mp2
+re_vc_pos3_01.ogg : B3 your company MP3
+re_vc_pos3_02.ogg : you have P3 P3
+re_vc_pos4_01.ogg : 24
+re_vc_pos4_02.ogg : fourth position you're in fourth position
+re_vc_pos5_01.ogg : Define fearing pisani
+re_vc_pos5_02.ogg : you have peace only P5
+re_vc_pos6_01.ogg : Could not recognize audio, skipping.
+re_vc_pos6_02.ogg : P6 we have P6
+re_vc_pos7_01.ogg : B7 now beset
+re_vc_pos7_02.ogg : you have p77 price
+re_vc_pos8_01.ogg : right place even 8th Place
+re_vc_pos8_02.ogg : Jean-Pierre
+re_vc_pos9_01.ogg : benign you're running in P9
+re_vc_pos9_02.ogg : ninth ninth position
+re_vc_poslst_01.ogg : the back last place
+re_vc_poslst_02.ogg : the last of the running car
+re_vc_rain_dry_05.ogg : we anticipate an end to this rain in around 5 minutes
+re_vc_rain_dry_06.ogg : looks like the weather is going to dry up in about 5 minutes
+re_vc_rain_dry_07.ogg : looking at another 5 maybe 10 minutes of this run
+re_vc_rain_dry_08.ogg : current forecast is 5 or 10 more minutes of rain before it dries up
+re_vc_rain_dry_09.ogg : the radar showing a clear patch on its way is about 10 more minutes of this
+re_vc_rain_dry_10.ogg : you're doing well I better keep it up when looking at about 10 more minutes of rain 10 minutes
+re_vc_rain_dry_11.ogg : 10 minutes left of this rain let me think it's going to dry up 10 minutes
+re_vc_rain_dry_12.ogg : ETA on this rain clearing up is about 10 minutes so just keep your concentration
+re_vc_repeat_01.ogg : say again you're breaking up
+re_vc_repeat_02.ogg : didn't catch that
+re_vc_repeat_03.ogg : having trouble receiving
+re_vc_repeat_04.ogg : ecstatic over the radio Sega
+re_vc_repeat_05.ogg : there's interference
+re_vc_repeat_06.ogg : can receive that repeat the message
+re_vc_stopgopen_01.ogg : they have a penalty that they have yet to take
+re_vc_tyreage_01.ogg : is a walnut
+re_vc_tyreage_02.ogg : bedtime is at 2 limestone
+re_vc_tyreage_03.ogg : bedtime is at 3 limestone
+re_vc_tyreage_04.ogg : tekton is a full episode
+re_vc_tyreage_05.ogg : that time is it
+re_vc_tyreage_06.ogg : bedtime is a six-month-old
+re_vc_tyreage_07.ogg : bedtime is a 7 laps
+re_vc_tyreage_08.ogg : bedtime is at 8 lime sold
+re_vc_tyreage_09.ogg : Latoya is annoying
+re_vc_tyreage_10.ogg : bedtime is at 10 laps
+re_vc_tyreage_11.ogg : bedtime
+re_vc_tyreage_12.ogg : bedtime is at 12
+re_vc_tyreage_13.ogg : 13 laps
+re_vc_tyreage_14.ogg : that time is a 14
+re_vc_tyreage_15.ogg : is a 50 laps
+re_vc_tyreage_16.ogg : Could not recognize audio, skipping.
+re_vc_tyreage_17.ogg : that tongue is a 17 laptop
+re_vc_tyreage_18.ogg : Could not recognize audio, skipping.
+re_vc_tyreage_19.ogg : Could not recognize audio, skipping.
+re_vc_tyreage_20.ogg : that time is it 20 laps old
+re_vc_tyreage_21.ogg : that tone is a 21 laps
+re_vc_tyreage_22.ogg : bedtime is a 22 lapso
+re_vc_tyreage_23.ogg : bedtime is at 23 laps
+re_vc_tyreage_24.ogg : that tongue is a 24 laptop
+re_vc_tyreage_25.ogg : Fat Tony is a 25 laps
+re_vc_tyreage_26.ogg : 26 laps
+re_vc_tyreage_27.ogg : 27 laps
+re_vc_tyreage_28.ogg : that tongue is a 28 laps
+re_vc_tyreage_29.ogg : that tongue is a 29 laps
+re_vc_tyreage_30.ogg : more than 30 laps
+re_vc_tyreage_31.ogg : Could not recognize audio, skipping.
+re_vc_tyreage_32.ogg : that Tony has a more than 50 laps out
+re_vc_tyreage_33.ogg : Tony is a molten 60 laps
+re_vc_tyreresponse_01.ogg : call Peanut
+re_vc_tyreresponse_02.ogg : tentative meeting time is it the next day
+re_vc_tyreresponse_03.ogg : Roger that stuff time is it
+re_vc_tyreresponse_04.ogg : Supersoft finexbox
+re_vc_tyreresponse_05.ogg : copy ultra-soft for the next door
+re_vc_tyreresponse_06.ogg : super Hans finexbox
+re_vc_tyreresponse_07.ogg : call PS4 the next day
+re_vet_ahd_01.ogg : Bethlehem
+re_vet_ahd_02.ogg : Could not recognize audio, skipping.
+re_vet_ahd_03.ogg : Sebastian ahead
+re_vet_ahd_04.ogg : Sebastian
+re_vet_bhd_01.ogg : Could not recognize audio, skipping.
+re_vet_bhd_02.ogg : Could not recognize audio, skipping.
+re_vet_bhd_03.ogg : Sebastian behind
+re_vet_bhd_04.ogg : Sebastian is behind you
+re_vtp_ahd_01.ogg : Could not recognize audio, skipping.
+re_vtp_ahd_02.ogg : Could not recognize audio, skipping.
+re_vtp_ahd_03.ogg : Max
+re_vtp_ahd_04.ogg : laxatives
+re_vtp_bhd_01.ogg : stopping behind
+re_vtp_bhd_02.ogg : Japanese behind
+re_vtp_bhd_03.ogg : Max
+re_vtp_bhd_04.ogg : Maxi's behind
+re_wetcnf_01.ogg : what time is confirm
+re_wetcnf_02.ogg : okay fitting the wet compound when you next come
+re_wetcnf_03.ogg : confound pit crew will ready wet X Kion X.
+re_wther_pe_01.ogg : you don't find any great we need on the current compound recommend coming in and moving over to into
+re_wther_pe_02.ogg : you're visibly struggling for grip it could beat on 250 intermediate
+re_wther_pe_03.ogg : is it getting hot we think it's time to move over to the intermediate time
+re_wther_pe_04.ogg : conditions are getting worse let us know if you want to switch over to food wet
+re_wther_pe_05.ogg : conditions are getting really bad make the decision on whether you're ready for food wet
+re_wther_pe_06.ogg : the track conditions improving it's your choice as to whether you want to fit the wets next time you come
+re_wther_pe_07.ogg : 5:39 52 the car the conditions could improve to
+re_wther_pe_08.ogg : track conditions are improving rapidly it's up to you whether you want to go straight onto the slick
+re_wther_pe_09.ogg : attracts drawing the truck is drying let us know when it's time to slick
+re_wther_st_09.ogg : we think you could be on the wrong compound intermediates should suit the track conditions Bass
+re_wther_st_10.ogg : recommend you switch over to intermediates next time you pit the current compound is struggling for grip
+re_wther_st_11.ogg : hateful food what's the current compound in phonemic rapini
+re_wther_st_12.ogg : track conditions are really bad recommend
+re_wther_st_13.ogg : traffic is looking pretty dry now you should pitch in and fit the dry compound
+re_wther_st_14.ogg : we think it's time to switch over to the dryer Tire Peyton and change your tires
+re_zho_ahd_01.ogg : Could not recognize audio, skipping.
+re_zho_ahd_02.ogg : yeah I was ahead of
+re_zho_ahd_03.ogg : guanyu ahead
+re_zho_ahd_04.ogg : guanyu is ahead of you
+re_zho_bhd_01.ogg : jalgaon
+re_zho_bhd_02.ogg : behind
+re_zho_bhd_03.ogg : guanyu behind
+re_zho_bhd_04.ogg : Guan Yu is behind
+re_zho_hgap_01.ogg : yeah I'm just a head push for the position
