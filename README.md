@@ -6,10 +6,10 @@ Custom Waze apk file that contains voice from F1 2020 (Jeff)
 
 ## How to download and install this program
 
-* Go to [Releases](https://github.com/austinyen56/Waze-F1-VO/releases/) click on the apk file to download
+* Go to [Releases](https://github.com/austinyen56/Waze-F1-VO/releases/) and click on the apk file to download
 * After downloading the apk file, go to the Google Play store and download [Apk-signer](https://play.google.com/store/apps/details?id=com.haibison.apksigner&hl=en&gl=US)
-* Load the apk file into apk-signer and install it
-* Open and log in to Waze and have fun :)
+* Load the apk file into apk-signer and install it 
+* Open and log in to Waze and have fun :)  Note: (might not work if you are using guest user)
 
 ## Small issues/ things to note about in the apk file
 
