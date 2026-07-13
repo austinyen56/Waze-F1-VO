@@ -25,6 +25,7 @@ Waze should launch automatically and prompt you to download the voice pack.
 
 * All audio was extracted from F1 2020 game.
 * Some prompts are assembled from multiple voice clips, so a few transitions may sound slightly unnatural.
+* Waze set the maximum allowed total file size is 0.8 MB. So since there are 43 total files, I had to compress them quite heavily in order to meet that requirement (Totalled around 720KB), resulting in sometimes grainy audio.
 * Created Waze sharable link using [pipeeeeees/waze-voicepack-links](https://github.com/pipeeeeees/waze-voicepack-links/tree/main/mp3_upload)
 * Compressed audio zip file is [here](https://voice-prompts-ipv6.waze.com/ee1b5f92-af3f-4e3e-a184-66759cd59709.tar.gz)
 
