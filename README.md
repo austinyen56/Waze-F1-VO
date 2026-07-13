@@ -30,7 +30,7 @@ Waze should launch automatically and prompt you to download the voice pack.
 
 Here are all the transcriptions to the corresponding sound files:
 <details>
-<summary>Full voice list (Open me if its hiden)</summary>
+<summary>Full voice list (Open me if its hidden)</summary>
 
 | File | Voice Line |
 |------|------------|
